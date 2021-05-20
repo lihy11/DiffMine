@@ -1,0 +1,17 @@
+38527-giraph,6f8296d9e3f0e23fb69999f61a8161b1f5e8b13b,src/main/java/org/apache/giraph/zk/ZooKeeperManager.java
+21551-struts,b382c5c021fc7c79b7c6d47f41d09a2307b2adb1,xwork-core/src/main/java/com/opensymphony/xwork2/util/finder/UrlSet.java
+22318-carbondata,01115872efc5eaa87886ca53f85dc680752fb750,hadoop/src/main/java/org/apache/carbondata/hadoop/api/CarbonTableInputFormat.java
+23045-UniversalMediaServer,34b78c90ef2190e741b9169c89b6d5707de73637,src/main/java/net/pms/encoders/FFMpegVideo.java
+25586-opennlp,f545a85f56418147c1712ff4d08fcfcf35c09745,opennlp-tools/src/main/java/opennlp/tools/formats/ad/ADNameSampleStream.java
+26208-logback-android,2b2edb0cc0d0e8c3f8c26a39e40811181aa4f632,logback-core/src/main/java/ch/qos/logback/core/net/SMTPAppenderBase.java
+10166-Anki-Android,d6ab2c8f09f98d25b21bf7550438cdda0d7be6c1,src/com/ichi2/libanki/Utils.java
+11670-maven,4f2c5b4511f6d447d858757be9f63e620a95c8ae,maven-core/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java
+10395-jitsi,20edb99ab54e1479345e4c34c3e912cf5ebf6819,src/net/java/sip/communicator/impl/neomedia/MediaServiceImpl.java
+2042-jsoup,ad4a1bee132ee7d1167ac795407345f2bc6a1db8,src/main/java/org/jsoup/nodes/Document.java
+2042-jsoup,ad4a1bee132ee7d1167ac795407345f2bc6a1db8,src/main/java/org/jsoup/nodes/Node.java
+7611-Terasology,903557bbe9e624624ec2cb1915bd8b985d232ada,engine/src/main/java/org/terasology/rendering/nui/layers/mainMenu/SelectModulesScreen.java
+5844-jOOQ,e07671ab20e74dfa4abdfcf1d24f9aa23cf43eba,jOOQ/src/main/java/org/jooq/impl/Utils.java
+4607-hibernate-orm,d0bd04b6d3fb65e753b9103e9babeb14aa4c7ffa,hibernate-core/src/main/java/org/hibernate/hql/internal/classic/QueryTranslatorImpl.java
+8346-pmd,ea6174ebeddbd0a645a81895d9be7a48ae1b7f1c,pmd-java/src/main/java/net/sourceforge/pmd/lang/java/metrics/impl/AbstractJavaClassMetric.java
+35532-cxf,cbf0ca69edb54ce58fc8063dfaa03fa497004ec6,rt/rs/client/src/main/java/org/apache/cxf/jaxrs/client/ClientProxyImpl.java
+38627-presto,b62825f719640e8888ff0a267ffad8646dd06c35,presto-spi/src/main/java/io/prestosql/spi/predicate/SortedRangeSet.java

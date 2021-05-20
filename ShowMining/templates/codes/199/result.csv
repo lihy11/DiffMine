@@ -1,0 +1,12 @@
+22223-pdfbox,6609b8f14b8cf82f1772e850897ab4ccc299560a,pdfbox/src/main/java/org/apache/pdfbox/rendering/PageDrawer.java
+22223-pdfbox,b203362f2d12e55c59146aca11a5d4136b784c1d,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/blend/BlendMode.java
+22223-pdfbox,1514204a2c11cfd71be8b78f818f5cb36845b23b,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/PDCIDFont.java
+22223-pdfbox,d6500dbc30019ff51cbb53fb4dc7585420049a07,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/shading/RadialShadingContext.java
+22223-pdfbox,d6500dbc30019ff51cbb53fb4dc7585420049a07,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/shading/AxialShadingContext.java
+22223-pdfbox,b9fa756ac73d6018461f0929d0c9d2c6efadab66,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/COSArrayList.java
+22223-pdfbox,b640ee0bdb8e47d1f40015eb4b5791a73c34840b,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDColorSpace.java
+22223-pdfbox,82dde646ebb3a2f9cfa9f1f159b4360a5598597f,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDFontSetting.java
+22223-pdfbox,1db64ec676171bd006e0fb146e6946ca560c3d49,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDTerminalField.java
+22223-pdfbox,ed2a718d590669712a4b0bd8fc5b95bd579efb00,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/interactive/form/PDNonTerminalField.java
+22223-pdfbox,47a0366d92c0f5f876c0e4f976af38461870cdac,pdfbox/src/main/java/org/apache/pdfbox/filter/CCITTFaxDecodeFilter.java
+22223-pdfbox,47a0366d92c0f5f876c0e4f976af38461870cdac,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/xobject/PDCcitt.java

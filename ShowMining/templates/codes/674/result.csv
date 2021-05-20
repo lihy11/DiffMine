@@ -1,0 +1,16 @@
+1090-HikariCP,b135955bf8a2cff6653e9010dd9d48342e94f54f,src/main/java/com/zaxxer/hikari/util/UtilityElf.java
+5607-atmosphere,9754de49878983bf090655203e0c880cccad7b2e,modules/cpr/src/main/java/org/atmosphere/cache/EventCacheBroadcasterCache.java
+5607-atmosphere,9754de49878983bf090655203e0c880cccad7b2e,modules/cpr/src/main/java/org/atmosphere/cache/EventCacheBroadcasterCache.java
+5607-atmosphere,9754de49878983bf090655203e0c880cccad7b2e,modules/cpr/src/main/java/org/atmosphere/cache/EventCacheBroadcasterCache.java
+5607-atmosphere,57df7b8366c2d9a97a6b645c3b5b1f37a68ee35e,modules/cpr/src/main/java/org/atmosphere/cache/AbstractBroadcasterCache.java
+7218-cordova-android,2eb4c5e960d633f67c9767b9cdd254111476b2cd,framework/src/org/apache/cordova/AccelListener.java
+2454-cas,4a38a621b60c5a0f153bceeb114d32bd051a9519,core/cas-server-core-services/src/main/java/org/apereo/cas/services/AbstractResourceBasedServiceRegistryDao.java
+2454-cas,4a38a621b60c5a0f153bceeb114d32bd051a9519,support/cas-server-support-ldap-service-registry/src/main/java/org/apereo/cas/adaptors/ldap/services/DefaultLdapRegisteredServiceMapper.java
+2763-storm,455b2baf1d2cab4a478f16a288cc6a60923612c2,external/storm-kafka/src/jvm/org/apache/storm/kafka/PartitionManager.java
+2763-storm,455b2baf1d2cab4a478f16a288cc6a60923612c2,external/storm-kafka/src/jvm/org/apache/storm/kafka/PartitionManager.java
+2763-storm,455b2baf1d2cab4a478f16a288cc6a60923612c2,external/storm-kafka/src/jvm/org/apache/storm/kafka/trident/TridentKafkaEmitter.java
+2763-storm,455b2baf1d2cab4a478f16a288cc6a60923612c2,external/storm-kafka/src/jvm/org/apache/storm/kafka/trident/TridentKafkaEmitter.java
+2763-storm,d89f7027fcaf5576b5b4a14488f42c71094617ad,external/storm-kafka/src/jvm/org/apache/storm/kafka/trident/TridentKafkaEmitter.java
+2763-storm,d89f7027fcaf5576b5b4a14488f42c71094617ad,external/storm-kafka/src/jvm/org/apache/storm/kafka/trident/TridentKafkaEmitter.java
+2763-storm,27373baee746f7baba2a60e06054590afd687976,external/storm-kafka/src/jvm/org/apache/storm/kafka/PartitionManager.java
+2763-storm,27373baee746f7baba2a60e06054590afd687976,external/storm-kafka/src/jvm/org/apache/storm/kafka/PartitionManager.java

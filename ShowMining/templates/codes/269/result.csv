@@ -1,0 +1,10 @@
+42532-jenetics,7b612105565d1eb59b69371a94f5f40d39bd67ad,org.jenetics/src/main/java/org/jenetics/internal/util/DieHarder.java
+31210-hibernate-validator,0880b8b54bacf87be560ffb23b26b1eaa3f01747,engine/src/main/java/org/hibernate/validator/internal/util/privilegedactions/NewInstance.java
+26208-logback-android,1784abbe27744cb11b2f9f6f3e9d2a09b2a79bd0,logback-android/src/main/java/ch/qos/logback/core/util/OptionHelper.java
+10508-simple-binary-encoding,09616fc05fd77857d7bd72dd16127b359910b8c7,sbe-tool/src/main/java/uk/co/real_logic/sbe/generation/TargetCodeGeneratorLoader.java
+14339-agrona,199b05e8e5a4bd2eb3c932db22c4637a787d47b2,agrona/src/main/java/org/agrona/concurrent/HighResolutionTimer.java
+8848-lwjgl3,d1227fa057302dc6fd12b35f4fd8e21de3f19a60,modules/core/src/main/java/org/lwjgl/system/APIUtil.java
+8848-lwjgl3,d1227fa057302dc6fd12b35f4fd8e21de3f19a60,modules/core/src/main/java/org/lwjgl/system/MemoryManage.java
+8848-lwjgl3,d1227fa057302dc6fd12b35f4fd8e21de3f19a60,modules/core/src/main/java/org/lwjgl/system/MemoryManage.java
+25739-poi,37c657754bf3ab0e0b4b1bb7244720a6558ed381,src/java/org/apache/poi/util/POILogFactory.java
+731-ExoPlayer,a476e090bcfd7dc79c6b40b08d3654fa994d03ac,library/src/main/java/com/google/android/exoplayer/extractor/ExtractorSampleSource.java

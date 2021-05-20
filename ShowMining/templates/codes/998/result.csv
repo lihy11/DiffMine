@@ -1,0 +1,16 @@
+44335-spring-cloud-contract,c354bffafbd37ad1da4d80294521445420634bf4,spring-cloud-contract-stub-runner/src/main/java/org/springframework/cloud/contract/stubrunner/AetherStubDownloader.java
+40863-isis,8bc8bfc29e7992e09a174af90f3a2f8f6d88f779,component/objectstore/jdo/jdo-datanucleus/src/main/java/org/apache/isis/objectstore/jdo/datanucleus/persistence/spi/DataNucleusSimplePersistAlgorithm.java
+40863-isis,1fcec5fa0befa8d790eec8baefc7c89cb8f727fb,core/metamodel/src/main/java/org/apache/isis/core/webapp/content/ResourceServlet.java
+40863-isis,1fcec5fa0befa8d790eec8baefc7c89cb8f727fb,core/runtime/src/main/java/org/apache/isis/core/runtime/persistence/adaptermanager/AdapterManagerDefault.java
+40863-isis,74c76ef28b5783fd662f09926f983c7b42e4c37d,component/viewer/wicket/impl/src/main/java/org/apache/isis/viewer/wicket/viewer/integration/wicket/WebRequestCycleForIsis.java
+33064-xodus,f73af028d148eee3a2b0c15f12fb39006846d42d,environment/src/main/java/jetbrains/exodus/env/EnvironmentImpl.java
+37583-esper,66d23b2e318910324d9852ed8deded15de34493c,common/src/main/java/com/espertech/esper/common/internal/epl/rowrecog/core/RowRecogNFAViewPlanUtil.java
+12015-mahout,85d756f00159d92e570a3412fc0e195377998683,core/src/main/java/org/apache/mahout/clustering/kmeans/KMeansClusterer.java
+14287-Saturn,58cec0fc3cb2438ace7f12627956f5c20b8f1fa7,saturn-core/src/main/java/com/vip/saturn/job/shell/ScriptJobRunner.java
+19415-hawtio,16a7fcb718be1cf540778991bd5f0db402231fa3,hawtio-web/src/main/java/io/hawt/web/OpenShiftProtocolSocketFactory.java
+19415-hawtio,08e1e018b66b468aba23ffc04c6c29846a7d4f75,hawtio-web/src/main/java/io/hawt/web/ProxyServlet.java
+7829-shiro,73fb97373ff0f32604e70fc4037df8cb22eb3462,core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+1272-flink,bdf9f86c51aa2122441adea6944ce46f393d729f,flink-runtime/src/main/java/org/apache/flink/runtime/state/filesystem/FsCheckpointStreamFactory.java
+5818-jmeter,7324c82cab69fef97688112154c81900ab4fd951,src/core/src/main/java/org/apache/jmeter/control/LoopController.java
+7427-hive,2b1f8082e90e17bb6b48d486c1deacfdb06daf99,standalone-metastore/src/main/java/org/apache/hadoop/hive/metastore/conf/MetastoreConf.java
+15769-calcite,05595f64902aa02c22a1a92c23452d74ceef02fe,druid/src/main/java/org/apache/calcite/adapter/druid/DruidDateTimeUtils.java

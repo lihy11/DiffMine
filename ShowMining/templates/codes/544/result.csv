@@ -1,0 +1,15 @@
+32091-lz4-java,7f8890bb51995e87f5126ecd4f2b41df7cf7effc,src/java/net/jpountz/lz4/LZ4Factory.java
+32091-lz4-java,7f8890bb51995e87f5126ecd4f2b41df7cf7effc,src/java/net/jpountz/xxhash/XXHashFactory.java
+21551-struts,bdf0f0da81937056e40d30d439d0de5f7221a1ec,plugins/json/src/main/java/org/apache/struts2/json/JSONWriter.java
+24467-lenskit,5f8cf897ac34d6e4cd137c7fac250f0c42233146,lenskit-eval/src/main/java/org/grouplens/lenskit/eval/config/EvalScriptEngine.java
+24467-lenskit,5f8cf897ac34d6e4cd137c7fac250f0c42233146,lenskit-eval/src/main/java/org/grouplens/lenskit/eval/config/EvalScriptEngine.java
+24467-lenskit,c4fef6f40695a90909d8d10451d9b7663c8d0b6d,lenskit-eval/src/main/java/org/grouplens/lenskit/eval/config/EvalScriptEngine.java
+24467-lenskit,c4fef6f40695a90909d8d10451d9b7663c8d0b6d,lenskit-eval/src/main/java/org/grouplens/lenskit/eval/config/EvalScriptEngine.java
+5286-parceler,005a9268da1315a563dcebc9149e52ed55693052,parceler-api/src/main/java/org/parceler/Parcels.java
+5607-atmosphere,e358cf3ca02169cb3793c1877e32dc373da610eb,modules/cpr/src/main/java/org/atmosphere/cpr/DefaultCometSupportResolver.java
+5607-atmosphere,c28377b755d4359a81c9fb735dc7d3e25ea3c483,modules/cpr/src/main/java/org/atmosphere/cpr/AtmosphereServlet.java
+5607-atmosphere,c28377b755d4359a81c9fb735dc7d3e25ea3c483,modules/cpr/src/main/java/org/atmosphere/cpr/AtmosphereServlet.java
+5607-atmosphere,c28377b755d4359a81c9fb735dc7d3e25ea3c483,modules/cpr/src/main/java/org/atmosphere/cpr/DefaultCometSupportResolver.java
+5607-atmosphere,a4d6ab429bad982a82747cf3b9f381a2b751541d,modules/cpr/src/main/java/org/atmosphere/cpr/BroadcasterFactory.java
+8021-reactor-core,ed4d806d8e2b4b20e88bbef013066f4eb862b67c,src/main/java/reactor/core/converter/DependencyUtils.java
+8021-reactor-core,ed4d806d8e2b4b20e88bbef013066f4eb862b67c,src/main/java/reactor/core/converter/DependencyUtils.java

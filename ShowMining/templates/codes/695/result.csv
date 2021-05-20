@@ -1,0 +1,11 @@
+20744-codelibrary,114b705b5ab018908fe222168a3b6f9d650d6c76,java/src/ConvexHull.java
+20744-codelibrary,7aa7749da449b8cfdf5951fba026a74a3e3ce3d7,java/src/PolygonAlgo.java
+2574-antlr4,1906e4a639c118ff325d0b88974cb76cb83a9707,tool/src/org/antlr/v4/codegen/model/LL1StarBlock.java
+2574-antlr4,b7e5cbd7f586936e255605f7c7da58e0d3950354,runtime/Java/src/org/antlr/v4/runtime/ANTLRInputStream.java
+2574-antlr4,b7e5cbd7f586936e255605f7c7da58e0d3950354,runtime/Java/src/org/antlr/v4/runtime/UnbufferedTokenStream.java
+2574-antlr4,b7e5cbd7f586936e255605f7c7da58e0d3950354,runtime/Java/src/org/antlr/v4/runtime/UnbufferedCharStream.java
+7606-opengrok,9b629d17ac5c266cc092ad6ad21a3088f7f07650,src/org/opensolaris/opengrok/analysis/plain/PlainAnalyzer.java
+10731-h2database,bc7d3f8a0a6559714279283059965ff17daf2b02,h2/src/main/org/h2/index/FunctionCursorResultSet.java
+15726-avro,ff5c4d6db9af3edd915a2176a627d51eb3478da3,lang/java/avro/src/main/java/org/apache/avro/data/RecordBuilderBase.java
+15726-avro,0de805575f41c2d7deff9fcbe408e51606f88269,lang/java/avro/src/main/java/org/apache/avro/generic/GenericData.java
+130-okhttp,cdae153cd0bb80e7cf75a4656f7706719d457b7b,okhttp/src/main/java/okhttp3/internal/Util.java

@@ -1,0 +1,15 @@
+32143-checkstyle-idea,faaa59814d61806c1b48a651aba0a0083a8f1643,src/main/java/org/infernus/idea/checkstyle/CheckStylePlugin.java
+22223-pdfbox,f212d6bb535f7537f1c04c75bf390b5ddd3c03fb,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/FileSystemFontProvider.java
+21302-phpinspectionsea,2aafb07a4b238a90b5ab08ea4e4f4e81107c582c,src/main/java/com/kalessil/phpStorm/phpInspectionsEA/inspectors/security/PotentialMalwareInspector.java
+21374-psi-probe,0bdeaf5bde4b958a8660efb572a0c497f5a62f18,core/src/main/java/com/googlecode/psiprobe/Utils.java
+14745-android,1e63423397582aff5fc2cd103c77d4b76040ee1c,src/main/java/com/owncloud/android/ui/activity/UploadListActivity.java
+1212-redisson,442d00b180606431fcb8be8aff2aea29e62d6fdb,redisson-tomcat/redisson-tomcat-9/src/main/java/org/redisson/tomcat/RedissonSessionManager.java
+1212-redisson,442d00b180606431fcb8be8aff2aea29e62d6fdb,redisson-tomcat/redisson-tomcat-7/src/main/java/org/redisson/tomcat/RedissonSessionManager.java
+1212-redisson,442d00b180606431fcb8be8aff2aea29e62d6fdb,redisson-tomcat/redisson-tomcat-6/src/main/java/org/redisson/tomcat/RedissonSessionManager.java
+1212-redisson,442d00b180606431fcb8be8aff2aea29e62d6fdb,redisson-tomcat/redisson-tomcat-8/src/main/java/org/redisson/tomcat/RedissonSessionManager.java
+2574-antlr4,a34fd6330b7f22612800003824b9b8b108963331,runtime/Java/src/org/antlr/v4/runtime/dfa/DFAState.java
+2042-jsoup,3a158cfbcfe70c9a921b9ea525e2cd8113193219,src/main/java/org/jsoup/safety/Whitelist.java
+2042-jsoup,3a158cfbcfe70c9a921b9ea525e2cd8113193219,src/main/java/org/jsoup/safety/Whitelist.java
+8346-pmd,7e380e5d982c073ad7157c9ee95abb0c0118d12b,pmd-core/src/main/java/net/sourceforge/pmd/lang/metrics/MetricOptions.java
+46-java-design-patterns,31f4b15e862a4d0b213561a0c20ff27d8d99822b,object-pool/src/main/java/com/iluwatar/object/pool/ObjectPool.java
+46-java-design-patterns,798aee47b325c8be5001373c44d4940f87f9b444,object-pool/src/main/java/com/iluwatar/object/pool/ObjectPool.java

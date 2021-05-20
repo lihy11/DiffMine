@@ -1,0 +1,11 @@
+12435-commafeed,62a8e8c119e6da84949b7543cbd8cee943d0b034,src/main/java/com/commafeed/backend/service/PasswordEncryptionService.java
+14608-rapidoid,7d8872747514e02dce7f138d9ab38db367b12904,rapidoid-commons/src/main/java/org/netnix/AES.java
+7829-shiro,7d6f53c5d73582660eac2e6f3194b5d1e910d5ce,crypto/hash/src/main/java/org/apache/shiro/crypto/hash/AbstractHash.java
+7829-shiro,7d6f53c5d73582660eac2e6f3194b5d1e910d5ce,crypto/hash/src/main/java/org/apache/shiro/crypto/hash/SimpleHash.java
+7829-shiro,7d6f53c5d73582660eac2e6f3194b5d1e910d5ce,core/src/main/java/org/apache/shiro/authc/credential/SimpleCredentialsMatcher.java
+5921-cryptomator,8bfdad38b9a87b1c5dd9089205ad3fa4de2a2425,main/crypto-aes/src/main/java/org/cryptomator/crypto/aes256/Aes256Cryptor.java
+35532-cxf,c09877e9773d5a4b5737930a348ce9f13e48df42,services/sts/sts-core/src/main/java/org/apache/cxf/sts/token/canceller/SCTCanceller.java
+35532-cxf,c09877e9773d5a4b5737930a348ce9f13e48df42,services/sts/sts-core/src/main/java/org/apache/cxf/sts/token/canceller/SCTCanceller.java
+35532-cxf,e66ce235ee5f8dbde467c8c23eeb622b072d0bf3,rt/rs/security/jose-parent/jose/src/main/java/org/apache/cxf/rs/security/jose/jws/HmacJwsSignatureVerifier.java
+35532-cxf,e66ce235ee5f8dbde467c8c23eeb622b072d0bf3,rt/rs/security/oauth-parent/oauth2/src/main/java/org/apache/cxf/rs/security/oauth2/tokens/hawk/AbstractHawkAccessTokenValidator.java
+35532-cxf,e66ce235ee5f8dbde467c8c23eeb622b072d0bf3,rt/rs/security/jose-parent/jose/src/main/java/org/apache/cxf/rs/security/jose/jwe/AesCbcHmacJweDecryption.java

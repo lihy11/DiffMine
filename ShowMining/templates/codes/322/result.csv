@@ -1,0 +1,11 @@
+33009-Recaf,38884e4cfd4fdcf59352a89ffd8bbdc2f8ace386,src/main/java/me/coley/recaf/bytecode/insn/NamedLabelRefInsn.java
+36169-takes,b702b35028e8742f09b68e1296781f27ae172a34,src/main/java/org/takes/facets/cookies/RqCookies.java
+29579-Payara,256e207bd2c15811042f07420d2c20353d35c119,nucleus/hk2/hk2-config/src/main/java/org/jvnet/hk2/config/ConfigModel.java
+18172-AsciidocFX,a5b3f96dfc849665a8be541ed098f679dcb564cd,src/main/java/com/kodedu/other/IOHelper.java
+2306-metrics,bee6db3b0b5bcdb48954e5f30e0ab5c40df0cb78,metrics-jmx/src/main/java/com/codahale/metrics/jmx/JmxReporter.java
+2306-metrics,bee6db3b0b5bcdb48954e5f30e0ab5c40df0cb78,metrics-jmx/src/main/java/com/codahale/metrics/jmx/JmxReporter.java
+7108-google-java-format,8a5c63722100e4703893fd32a87eeaee0addad95,core/src/main/java/com/google/googlejavaformat/java/JavaOutput.java
+2763-storm,4605ae0a34858309171e726e1924b9a37695c977,storm-server/src/main/java/org/apache/storm/scheduler/resource/strategies/scheduling/BaseResourceAwareStrategy.java
+2763-storm,6d58e63eb085ef21adf9170fbc3e9eb93db0c621,storm-server/src/main/java/org/apache/storm/scheduler/resource/strategies/scheduling/BaseResourceAwareStrategy.java
+35532-cxf,b11ba45f602ee0986cabd2020deb7e56b4f39bc5,rt/rs/extensions/json-basic/src/main/java/org/apache/cxf/jaxrs/json/basic/JsonMapObject.java
+38627-presto,be6815e2f4239c67011698739055eefff4cf1a75,presto-main/src/main/java/com/facebook/presto/sql/planner/optimizations/PropertyDerivations.java

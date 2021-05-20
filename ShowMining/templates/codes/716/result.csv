@@ -1,0 +1,11 @@
+30753-phoenix,9e686b758ff735fd9129430cd31fe36993b9711b,phoenix-core/src/main/java/org/apache/phoenix/filter/RowKeyComparisonFilter.java
+23204-ebean,a86af94a8caf66ece25d55ce823648484d360308,src/main/java/io/ebeaninternal/server/type/DefaultTypeManager.java
+29689-mina,e2e0ac8ffeb00849cc229571bec905b378e32ff9,core/src/main/java/org/apache/mina/service/idlechecker/IndexedIdleChecker.java
+11181-Chronicle-Queue,db10f5ad73fa4c88b0cf3bbc23441b3dab23348f,src/main/java/net/openhft/chronicle/queue/impl/single/SingleChronicleQueueExcerpts.java
+2306-metrics,91c5e89673cf302df63f5f13f0fa7b32bb45e1fe,metrics-ganglia/src/main/java/com/yammer/metrics/reporting/GangliaReporter.java
+2306-metrics,bc677bb43c249e76f7928119eacfa1ed262f6926,metrics-ganglia/src/main/java/com/yammer/metrics/reporting/GangliaReporter.java
+2688-swagger-core,cd32cf59221d822f753963921a1b20bc38f26225,modules/swagger-core/src/main/java/io/swagger/converter/ModelConverterContextImpl.java
+1272-flink,92133b76cb3de55a98a0e14e3a57188f102985c3,flink-runtime/src/main/java/org/apache/flink/runtime/rest/AbstractHandler.java
+8573-drools,e2ecfb8b3f7249dcf691218f7fb281cc7f61f939,drools-core/src/main/java/org/drools/core/common/DefaultAgenda.java
+7427-hive,e0c27c63e75c838dd5dd842d658b7f883129b9a0,metastore/src/java/org/apache/hadoop/hive/metastore/txn/TxnHandler.java
+967-mybatis-3,e553d1aff88d84e9884c1653fb788e97e34e5833,src/main/java/org/apache/ibatis/logging/slf4j/Slf4jLoggerImpl.java

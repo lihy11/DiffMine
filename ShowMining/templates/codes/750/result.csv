@@ -1,0 +1,12 @@
+43164-sentry-java,65b9df458c894c9e4e7ea0b5900249f5ea3b1014,raven/src/main/java/net/kencochrane/raven/jul/SentryHandler.java
+43164-sentry-java,65b9df458c894c9e4e7ea0b5900249f5ea3b1014,raven/src/main/java/net/kencochrane/raven/RavenFactory.java
+28282-easy-random,cd88f4db4e7ffef06298d854310855c573b5928a,easy-random-core/src/main/java/org/jeasy/random/util/ClassGraphFacade.java
+26124-droidparts,932653f25ba077533652ff9564718e62958edda6,base/src/org/droidparts/inject/injector/DependencyInjector.java
+26124-droidparts,932653f25ba077533652ff9564718e62958edda6,base/src/org/droidparts/model/Entity.java
+26124-droidparts,932653f25ba077533652ff9564718e62958edda6,base/src/org/droidparts/reflect/util/ReflectionUtils.java
+28453-cuba,0a763481a20ac4863587cb1108055957ea823c27,modules/core/src/com/haulmont/cuba/core/app/script/SqlScriptGenerator.java
+11118-truth,3b5f3777f6116440b2eaa809308fca5043e502c2,core/src/main/java/com/google/common/truth/Subject.java
+11118-truth,3b5f3777f6116440b2eaa809308fca5043e502c2,core/src/main/java/com/google/common/truth/Subject.java
+5242-graphql-java,9a56e3fb52de59a9f125023240944e6252942823,src/main/java/graphql/schema/PropertyDataFetcher.java
+13675-framework,bfd675995ec352e5e83cc16bc51b54ecf270d5e0,src/com/vaadin/terminal/gwt/server/JsonCodec.java
+38627-presto,c4c48e72c78065000c55e71bf3df9190ddb8bc09,presto-spi/src/main/java/com/facebook/presto/spi/SerializableNativeValue.java

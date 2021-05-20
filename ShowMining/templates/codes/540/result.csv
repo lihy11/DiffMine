@@ -1,0 +1,11 @@
+43407-portfolio,de13829f163d3f9b42a25f72490f0a038cf583a9,name.abuchen.portfolio.ui/src/name/abuchen/portfolio/ui/UpdateQuotesJob.java
+36420-jena,c88bb3bd1abe6075ae1ee51b565783b4e630a7ed,jena-arq/src/main/java/org/apache/jena/riot/lang/BlankNodeAllocatorGlobal.java
+21302-phpinspectionsea,4fd0a07aac8b6664b0f922c4f80e8f5b91952f61,src/main/java/com/kalessil/phpStorm/phpInspectionsEA/inspectors/semanticalAnalysis/npe/strategy/NullableVariablesStrategy.java
+21302-phpinspectionsea,5dc875ad9cf7bffccaea10d56336134ba08fd2bc,src/main/java/com/kalessil/phpStorm/phpInspectionsEA/inspectors/semanticalAnalysis/npe/strategy/NullableVariablesStrategy.java
+12210-speedment,c25087948d5f2f47c9662fc3b15a8a44d0039eaa,src/main/java/com/speedment/internal/core/config/PluginDataImpl.java
+4948-spring-security,7b2a7847e5cad1e75dac59fa7839d4f73c897b82,web/src/main/java/org/springframework/security/web/savedrequest/DefaultSavedRequest.java
+7280-mpush,0e67f51d668df4c9db884e5050c985ed6fa04d88,mpush-cache/src/main/java/com/mpush/cache/redis/listener/ListenerDispatcher.java
+7593-javaparser,764fb2da14f6b1efc8ce598f027e39d43c970d21,java-symbol-solver-core/src/main/java/com/github/javaparser/symbolsolver/javaparsermodel/JavaParserFacade.java
+5827-MinecraftForge,dd0c251b3d4b2058d35456a1a7e85b3ebc160449,src/main/java/net/minecraftforge/fml/relauncher/libraries/ModList.java
+8021-reactor-core,255baf338f1429c42b83c118dc89ce2d494c7912,src/main/java/reactor/core/publisher/Flux.java
+16050-optaplanner,334d363d429cbef70159f95ee6c1c610a05bcc55,optaplanner-core/src/main/java/org/optaplanner/core/impl/heuristic/selector/entity/pillar/DefaultPillarSelector.java

@@ -1,0 +1,12 @@
+30753-phoenix,27722998c35cbc14f8a6c1c1be1c0cc6b0f7769a,phoenix-core/src/main/java/org/apache/phoenix/hbase/index/covered/NonTxIndexBuilder.java
+28453-cuba,1ea543ee42794166a9712cdcb7859d62068f597c,modules/core/src/com/haulmont/cuba/core/sys/ServiceInterceptor.java
+18816-spring-cloud-sleuth,e9cfe6d2ab8e29a3f04c6e1688370ae78ade8a7d,spring-cloud-sleuth-core/src/main/java/org/springframework/cloud/sleuth/instrument/rxjava/SleuthRxJavaSchedulersHook.java
+7829-shiro,f09c41e73cb78a9ef14e912675e7483f827f8f27,jsecurity/ri/business/src/org/jsecurity/session/AbstractSessionManager.java
+6424-hbase,f4d9597e1eef3baa9266581cf762ae3b249a1dff,hbase-server/src/main/java/org/apache/hadoop/hbase/master/balancer/BaseLoadBalancer.java
+6424-hbase,331b585934ecbb60a6d3477aab3533fabb1eef58,hbase-client/src/main/java/org/apache/hadoop/hbase/zookeeper/ZKUtil.java
+6424-hbase,0b0cccb61d0eca166be235f8832ba2c7df873f1a,hbase-client/src/main/java/org/apache/hadoop/hbase/client/ClientScanner.java
+6424-hbase,f8a2ae4199aeceb8d8ae6c9c63119163446bca3a,hbase-server/src/main/java/org/apache/hadoop/hbase/util/FSUtils.java
+6424-hbase,61870830bf507c5d7a5eb1a756e64bbfd7a87570,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/QosFunction.java
+6424-hbase,d8ceacc577a90e0cfcc137983d37ed7b9d77e3fe,hbase-server/src/main/java/org/apache/hadoop/hbase/master/cleaner/TimeToLiveHFileCleaner.java
+7427-hive,1e4c9612cacfc11d57134b7601dd1aa9e7984c59,ql/src/java/org/apache/hadoop/hive/ql/io/orc/RecordReaderImpl.java
+13536-activemq,1ea430e557060809f726229ad9dffa6ee0ada649,activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java

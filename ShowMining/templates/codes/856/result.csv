@@ -1,0 +1,15 @@
+33465-sqoop,f4d5ed5375a7c4f94646ae0faa815b63ad641343,src/java/org/apache/sqoop/mapreduce/db/DBRecordReader.java
+15151-jabref,1d5e7ee90a0b6eb5c216abd627c1bc423c05ea41,src/main/java/net/sf/jabref/logic/io/MimeTypeDetector.java
+1272-flink,77b7dccd3a30719a8d0bac82fa0ae49f2e9ac889,flink-addons/flink-streaming/src/main/java/eu/stratosphere/streaming/api/streamcomponent/StreamInvokableComponent.java
+6424-hbase,2ce31f8945635259b4e53ac9a1d381b4df57a0fe,hbase-server/src/main/java/org/apache/hadoop/hbase/master/normalizer/SimpleRegionNormalizer.java
+6424-hbase,2ce31f8945635259b4e53ac9a1d381b4df57a0fe,hbase-server/src/main/java/org/apache/hadoop/hbase/master/normalizer/SimpleRegionNormalizer.java
+6424-hbase,96f84594eee58b4e9a9347541baa3343a4ed3b97,hbase-server/src/main/java/org/apache/hadoop/hbase/util/FSUtils.java
+6424-hbase,6657449eb48f21d8f7501763aa6113f6a6ba3305,hbase-server/src/main/java/org/apache/hadoop/hbase/master/SplitLogManager.java
+6424-hbase,2ec4c4b939a90fa839cf54966cf9611e6871aa53,hbase-server/src/main/java/org/apache/hadoop/hbase/master/AssignmentManager.java
+6424-hbase,e896f6d400c7ad946141adbf7317df7c680fcdc6,src/main/java/org/apache/hadoop/hbase/mapreduce/TableRecordReaderImpl.java
+6424-hbase,2937265741afe1fea533b86b6706915905256e7a,src/main/java/org/apache/hadoop/hbase/master/AssignmentManager.java
+6424-hbase,44eab92141c9e984da26bbad393a5ae03f149a7f,src/main/java/org/apache/hadoop/hbase/client/HConnectionManager.java
+6424-hbase,44eab92141c9e984da26bbad393a5ae03f149a7f,src/main/java/org/apache/hadoop/hbase/client/HConnectionManager.java
+7427-hive,50e41ea2fed7120ee48299fe42d80d03ca19c28a,hcatalog/webhcat/svr/src/main/java/org/apache/hive/hcatalog/templeton/AppConfig.java
+13536-activemq,7629eafd0a54f163b8092f43d2d83f9cd6ee3907,activemq-core/src/main/java/org/apache/activemq/broker/TransportConnection.java
+13536-activemq,6e714a2fe5bc5727ef55ce18c33d99128e73f8a5,activemq-core/src/main/java/org/apache/activemq/transport/failover/FailoverTransport.java

@@ -1,0 +1,14 @@
+40863-isis,5516b5543d0f370f5fb3d206c6d38b6aa318bb39,core/viewer-wicket/ui/src/main/java/org/apache/isis/viewer/wicket/ui/components/widgets/breadcrumbs/BreadcrumbPanel.java
+40863-isis,5516b5543d0f370f5fb3d206c6d38b6aa318bb39,core/viewer-wicket/ui/src/main/java/org/apache/isis/viewer/wicket/ui/components/footer/FooterPanel.java
+40863-isis,5516b5543d0f370f5fb3d206c6d38b6aa318bb39,core/viewer-wicket/ui/src/main/java/org/apache/isis/viewer/wicket/ui/pages/PageAbstract.java
+40863-isis,4edb04e398013e367c7fa8c0803c8e5d2b505f30,core/viewer-wicket/model/src/main/java/org/apache/isis/viewer/wicket/model/models/EntityCollectionModel.java
+40863-isis,b5e437b0eeb2f8681721f10e46186a197409b0d9,core/viewer-restfulobjects/server/src/main/java/org/apache/isis/viewer/restfulobjects/server/ResourceContext.java
+40863-isis,29eecd1ca00a98512f5deb7c1c0f3c84711b2dcf,core/viewer-restfulobjects/rendering/src/main/java/org/apache/isis/viewer/restfulobjects/rendering/domainobjects/ObjectActionReprRenderer.java
+40863-isis,6e398f45f3d802076ca694b453733566061b4480,core/metamodel/src/main/java/org/apache/isis/metamodel/facets/actions/action/invocation/ActionInvocationFacetForDomainEventAbstract.java
+40863-isis,2defb1ae41e6f2ec9b12e61ab8354eac0fa0b52f,core/metamodel/src/main/java/org/apache/isis/metamodel/facets/members/disabled/method/DisableForContextFacetViaMethodFactory.java
+40863-isis,2defb1ae41e6f2ec9b12e61ab8354eac0fa0b52f,core/metamodel/src/main/java/org/apache/isis/metamodel/facets/members/hidden/method/HideForContextFacetViaMethodFactory.java
+40863-isis,b2c29d1142013d8239dbf15cff086676ca468a0b,core/metamodel/src/main/java/org/apache/isis/metamodel/specloader/validator/MetaModelValidatorToCheckModuleExtent.java
+40863-isis,1c3007d26813042434601a7d71a67cd183d65046,core/viewer-wicket/impl/src/main/java/org/apache/isis/viewer/wicket/viewer/settings/WicketViewerSettingsDefault.java
+40863-isis,1c3007d26813042434601a7d71a67cd183d65046,core/viewer-wicket/impl/src/main/java/org/apache/isis/viewer/wicket/viewer/settings/WicketViewerSettingsDefault.java
+40863-isis,1c3007d26813042434601a7d71a67cd183d65046,core/viewer-wicket/impl/src/main/java/org/apache/isis/viewer/wicket/viewer/settings/WicketViewerSettingsDefault.java
+40863-isis,c9e74d3ffc26d738c439a2cc463f72e7a86dd673,core/metamodel/src/main/java/org/apache/isis/metamodel/specloader/validator/MetaModelValidatorToCheckObjectSpecIdsUnique.java

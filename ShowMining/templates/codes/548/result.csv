@@ -1,0 +1,13 @@
+41143-sitewhere,991b27f32714bc015789e11e3e43a478ae90f639,sitewhere-solr/src/main/java/com/sitewhere/solr/search/SolrSearchProvider.java
+41143-sitewhere,991b27f32714bc015789e11e3e43a478ae90f639,sitewhere-solr/src/main/java/com/sitewhere/solr/search/SolrSearchProvider.java
+41143-sitewhere,1e22d4d716a56a3e70334ac25be8a201138bded9,sitewhere-core/src/main/java/com/sitewhere/server/resource/FileSystemResourceManager.java
+41143-sitewhere,1e22d4d716a56a3e70334ac25be8a201138bded9,sitewhere-core/src/main/java/com/sitewhere/server/resource/FileSystemResourceManager.java
+25060-elasticsearch-readonlyrest-plugin,468145ef04cb0a9264ea30b6df1a4e9245d4c467,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Delayed.java
+25060-elasticsearch-readonlyrest-plugin,468145ef04cb0a9264ea30b6df1a4e9245d4c467,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Delayed.java
+25060-elasticsearch-readonlyrest-plugin,468145ef04cb0a9264ea30b6df1a4e9245d4c467,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Delayed.java
+25060-elasticsearch-readonlyrest-plugin,74a87482ee61cbbd5a6466736b69dfce02288e5c,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Transactional.java
+25060-elasticsearch-readonlyrest-plugin,74a87482ee61cbbd5a6466736b69dfce02288e5c,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Transactional.java
+25060-elasticsearch-readonlyrest-plugin,74a87482ee61cbbd5a6466736b69dfce02288e5c,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Transactional.java
+25060-elasticsearch-readonlyrest-plugin,74a87482ee61cbbd5a6466736b69dfce02288e5c,src/main/java/org/elasticsearch/plugin/readonlyrest/acl/requestcontext/Delayed.java
+13882-blynk-server,8390f4202467a07f9e9336a631c983dfb224e314,server/tcp-hardware-server/src/main/java/cc/blynk/server/hardware/handlers/hardware/auth/HardwareLoginHandler.java
+13882-blynk-server,5c465b4de35d39d28fed6196184d5a6fa6e8328b,server/http-core/src/main/java/cc/blynk/core/http/BaseHttpHandler.java

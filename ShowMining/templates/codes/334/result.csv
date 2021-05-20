@@ -1,0 +1,14 @@
+22223-pdfbox,3ff6d106361cb560f37412aba40429e22b5fe6ef,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/PDType1FontEmbedder.java
+22223-pdfbox,3ff6d106361cb560f37412aba40429e22b5fe6ef,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/PDType1FontEmbedder.java
+22223-pdfbox,18f1e45d96a36cb643a66198375cb765e810eedb,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/PDXObject.java
+22223-pdfbox,788539c832de595d22f04bb4b2cfe268e805b41c,preflight/src/main/java/org/apache/pdfbox/preflight/font/descriptor/CIDType0DescriptorHelper.java
+22223-pdfbox,788539c832de595d22f04bb4b2cfe268e805b41c,preflight/src/main/java/org/apache/pdfbox/preflight/font/descriptor/TrueTypeDescriptorHelper.java
+22223-pdfbox,788539c832de595d22f04bb4b2cfe268e805b41c,preflight/src/main/java/org/apache/pdfbox/preflight/font/descriptor/Type1DescriptorHelper.java
+22223-pdfbox,788539c832de595d22f04bb4b2cfe268e805b41c,preflight/src/main/java/org/apache/pdfbox/preflight/font/descriptor/CIDType2DescriptorHelper.java
+22223-pdfbox,ba18ae205f0772655e0be160eb74b63126643f2a,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/PDType1Font.java
+22223-pdfbox,1178b372bd2803f78dd6f51b942fec683b1b6e01,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/PDCIDFontType2Embedder.java
+22223-pdfbox,60dfcb24ab867861ed4357d5fb0d96c0c442f61f,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDOutputIntent.java
+22223-pdfbox,7b7bc29f0ce8cf1f7d41bd7126265ac257b0d3d4,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/TrueTypeEmbedder.java
+22223-pdfbox,7d90a5b5213148092ba68ffe25fb480d7e09bdb5,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunction.java
+22223-pdfbox,7d90a5b5213148092ba68ffe25fb480d7e09bdb5,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/common/function/PDFunction.java
+22223-pdfbox,a9aa94ad181e498a464278c8cd2e20206c70b2df,pdfbox/src/main/java/org/apache/pdfbox/multipdf/PDFMergerUtility.java

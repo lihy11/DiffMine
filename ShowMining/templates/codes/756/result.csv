@@ -1,0 +1,15 @@
+40806-libaums,c3272d78dfecb5772727bead668d37ee4cf028c3,libaums/src/main/java/com/github/mjdev/libaums/UsbMassStorageDevice.java
+48239-collect,e73ef8b9e45d0755bf8f10245e277fb11d86f997,collect_app/src/main/java/org/odk/collect/android/utilities/WebUtils.java
+48239-collect,372cfdf97df53cadf69c27d5ecad6a1f4616d0f2,collect_app/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java
+48239-collect,372cfdf97df53cadf69c27d5ecad6a1f4616d0f2,collect_app/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java
+48239-collect,372cfdf97df53cadf69c27d5ecad6a1f4616d0f2,collect_app/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java
+48239-collect,b0c275d7d30fc45c85389dc97fd75d519aa4faec,src/org/odk/collect/android/UploaderTask.java
+20057-AnySoftKeyboard,fa2d968fa79b2711f2a7092ef47933d11d1dae42,src/com/anysoftkeyboard/dictionaries/BTreeDictionary.java
+28890-rtmp-rtsp-stream-client-java,6d0488692a8bbe87facb9650010cbaf095559433,rtmp/src/main/java/net/ossrs/rtmp/SrsFlvMuxer.java
+28890-rtmp-rtsp-stream-client-java,6d0488692a8bbe87facb9650010cbaf095559433,encoder/src/main/java/com/pedro/encoder/video/VideoEncoder.java
+28890-rtmp-rtsp-stream-client-java,6d0488692a8bbe87facb9650010cbaf095559433,encoder/src/main/java/com/pedro/encoder/video/VideoEncoder.java
+28890-rtmp-rtsp-stream-client-java,1023976af765f0ca567c664c8c647903616424a3,rtsp/src/main/java/com/pedro/rtsp/rtsp/RtspClient.java
+28890-rtmp-rtsp-stream-client-java,1023976af765f0ca567c664c8c647903616424a3,rtsp/src/main/java/com/pedro/rtsp/rtsp/RtspClient.java
+28890-rtmp-rtsp-stream-client-java,58256362bb713e7d463652ac2bfc5d2ddd546329,rtmp/src/main/java/com/github/faucamp/simplertmp/io/RtmpConnection.java
+28890-rtmp-rtsp-stream-client-java,58256362bb713e7d463652ac2bfc5d2ddd546329,rtmp/src/main/java/com/github/faucamp/simplertmp/io/RtmpConnection.java
+10166-Anki-Android,43253b4e64ec6473c3322c03e1dc3150a30d436f,src/com/ichi2/anki/Deck.java

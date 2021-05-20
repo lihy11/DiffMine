@@ -1,0 +1,13 @@
+33465-sqoop,e2d6499da8567888989908ddcd078f046e859679,src/java/org/apache/sqoop/util/ResultSetPrinter.java
+21374-psi-probe,c263dbaa2f944fd54c056f056972aa829161eb6a,core/src/main/java/com/googlecode/psiprobe/controllers/sql/ExecuteSqlController.java
+25999-geotools,d948067f5cc024fa238d9011f1af4c8737e97945,modules/library/jdbc/src/main/java/org/geotools/jdbc/JDBCFeatureSource.java
+26200-mondrian,95a28d5314f3cc2984472c8a9c1e1566898d1baf,src/main/mondrian/xmla/XmlaHandler.java
+10256-traccar,d31cb022e5cd75bee3a82d8fe2d2f00806146232,src/org/traccar/database/QueryBuilder.java
+11281-liquibase,e219b2aa211543656fb834f47bb05206b6a380eb,liquibase-core/src/main/java/liquibase/executor/jvm/ColumnMapRowMapper.java
+11281-liquibase,d06613642c09041b2701b573f226555d061e998d,liquibase-core/src/main/java/liquibase/executor/jvm/ColumnMapRowMapper.java
+11281-liquibase,774981720b7584f688b047a57605a78aa59de6c8,liquibase-core/src/main/java/liquibase/executor/jvm/ColumnMapRowMapper.java
+11281-liquibase,f0fc4651654e379a1f1bfee77b4fa9ae38f2b97b,liquibase-core/src/main/java/liquibase/executor/jvm/ColumnMapRowMapper.java
+8212-immutables,bbef3441b9c0993b09e30f5000b5c19c172f11fb,common/src/org/immutables/common/jdbi/MapperFactory.java
+5818-jmeter,76a776f9f412cb5e685b8ef7623a70e9dc317ac7,src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/AbstractJDBCTestElement.java
+5818-jmeter,76a776f9f412cb5e685b8ef7623a70e9dc317ac7,src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/AbstractJDBCTestElement.java
+967-mybatis-3,1993f27019ac6dbe20a39819e493a78461c42103,src/main/java/org/apache/ibatis/logging/jdbc/ResultSetLogger.java

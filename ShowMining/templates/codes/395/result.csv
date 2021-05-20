@@ -1,0 +1,11 @@
+40863-isis,8bc8bfc29e7992e09a174af90f3a2f8f6d88f779,component/objectstore/jdo/jdo-datanucleus/src/main/java/org/apache/isis/objectstore/jdo/datanucleus/persistence/spi/DataNucleusSimplePersistAlgorithm.java
+40863-isis,1fcec5fa0befa8d790eec8baefc7c89cb8f727fb,core/metamodel/src/main/java/org/apache/isis/core/webapp/content/ResourceServlet.java
+33064-xodus,f73af028d148eee3a2b0c15f12fb39006846d42d,environment/src/main/java/jetbrains/exodus/env/EnvironmentImpl.java
+37583-esper,66d23b2e318910324d9852ed8deded15de34493c,common/src/main/java/com/espertech/esper/common/internal/epl/rowrecog/core/RowRecogNFAViewPlanUtil.java
+23659-Kundera,3376c65873952ef1198b65a758e2a03ddb64c76f,kundera-cassandra/src/main/java/com/impetus/client/cassandra/thrift/ThriftClientFactory.java
+23204-ebean,77deab5cf06ffc2630183cfadfa745b42673f4a1,src/main/java/com/avaje/ebeaninternal/server/transaction/TransactionManager.java
+7829-shiro,73fb97373ff0f32604e70fc4037df8cb22eb3462,core/src/main/java/org/apache/shiro/realm/AuthorizingRealm.java
+5818-jmeter,7324c82cab69fef97688112154c81900ab4fd951,src/core/src/main/java/org/apache/jmeter/control/LoopController.java
+7427-hive,2b1f8082e90e17bb6b48d486c1deacfdb06daf99,standalone-metastore/src/main/java/org/apache/hadoop/hive/metastore/conf/MetastoreConf.java
+7427-hive,954baa89bb4ee3e6ba7ed45157553dae633b3c9f,ql/src/java/org/apache/hadoop/hive/ql/ppd/OpProcFactory.java
+15769-calcite,05595f64902aa02c22a1a92c23452d74ceef02fe,druid/src/main/java/org/apache/calcite/adapter/druid/DruidDateTimeUtils.java

@@ -1,0 +1,10 @@
+48239-collect,9691f0e1bf62fe753e2cc594b87ec496e1c6e2c4,collect_app/src/main/java/org/odk/collect/android/widgets/GeoPointWidget.java
+48239-collect,9691f0e1bf62fe753e2cc594b87ec496e1c6e2c4,collect_app/src/main/java/org/odk/collect/android/widgets/GeoPointWidget.java
+35644-countly-sdk-android,4da13547fd36d8e6f98da00f1d09e7a82b01f4fc,sdk/src/main/java/ly/count/android/sdk/CertificateTrustManager.java
+23130-webdrivermanager,534322ad0bdedf982b7dae2f36729e986cc5a367,src/main/java/io/github/bonigarcia/wdm/MarionetteDriverManager.java
+10395-jitsi,ad067de163699164e07a117fc291832225689492,src/net/java/sip/communicator/impl/protocol/irc/IrcStack.java
+10395-jitsi,ad067de163699164e07a117fc291832225689492,src/net/java/sip/communicator/impl/protocol/irc/IrcStack.java
+10395-jitsi,ad067de163699164e07a117fc291832225689492,src/net/java/sip/communicator/impl/protocol/irc/IrcStack.java
+11281-liquibase,6e288036d61415c7afdabfd137cf33e2b1b3fb6c,liquibase-core/src/main/java/liquibase/diff/output/changelog/AbstractChangeGenerator.java
+11281-liquibase,6e288036d61415c7afdabfd137cf33e2b1b3fb6c,liquibase-core/src/main/java/liquibase/diff/output/changelog/AbstractChangeGenerator.java
+11281-liquibase,6860387b2f7c05d0475e49da451a7e27b4f82554,core/src/java/liquibase/database/structure/Column.java

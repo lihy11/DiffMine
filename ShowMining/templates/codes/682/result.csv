@@ -1,0 +1,13 @@
+23045-UniversalMediaServer,912f672590bcd15e46d95eb71f859c76ac8eb50c,src/main/java/net/pms/util/SubtitleUtils.java
+25470-gravitee-gateway,8b38e48ce68a191ccbfd466e81a0db6b675936b6,gravitee-gateway-http-client/gravitee-gateway-http-client-core/src/main/java/io/gravitee/gateway/http/core/invoker/AbstractHttpInvoker.java
+10502-java-string-similarity,2b2930e1f500efd5f9efbd95891a62ab7da3a818,src/main/java/info/debatty/java/stringsimilarity/KShingling.java
+15118-spring-cloud-config,ccd3bc2ff6d7e61f1eb88c1a25f836b09447993a,spring-cloud-config-server/src/main/java/org/springframework/cloud/config/server/support/GitSkipSslValidationCredentialsProvider.java
+2042-jsoup,f0f3eab9c34cc32c6ad06a991fe572d243ca9e85,src/main/java/org/jsoup/nodes/TextNode.java
+3683-checkstyle,738c7f184d7e8b7c9d11dcb3cc47e0895945d1e3,src/main/java/com/puppycrawl/tools/checkstyle/checks/OuterTypeFilenameCheck.java
+3683-checkstyle,7b14802231d6031a6b31565328dc0ddd80c7d2c6,src/main/java/com/puppycrawl/tools/checkstyle/checks/header/AbstractHeaderCheck.java
+9433-graphhopper,b9c6af3f3f7665f685591cd78f3780793f73cf05,core/src/main/java/com/graphhopper/routing/util/EncodingManager.java
+5844-jOOQ,2268afa4ab4322f14db97c8b9d5eecceb37ab578,jOOQ/src/main/java/org/jooq/impl/DefaultRenderContext.java
+5844-jOOQ,58f57c9f1afc6585b7aaa1b83fbd06295340f478,jOOQ/src/main/java/org/jooq/impl/FieldTypeHelper.java
+2454-cas,c4e24448048f9f9299ae423c2807542f206be178,core/cas-server-core-services-api/src/main/java/org/apereo/cas/services/util/JasigRegisteredServiceDeserializationProblemHandler.java
+6424-hbase,aef674264ec0262cddc901182dcd3d1b7851b2e1,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/StoreFileWriter.java
+5818-jmeter,179d6a813cf24739218c5ad9f700b715c51df716,src/protocol/http/org/apache/jmeter/protocol/http/proxy/Proxy.java

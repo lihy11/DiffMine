@@ -1,0 +1,10 @@
+28966-ringojs,fb154b9a4c2c90cae952450a81f32c4ef18b4cb8,src/org/ringojs/repository/FileResource.java
+11642-jacoco,d0a73edd41a29f4c0ffabae15d7c023a37df976f,org.jacoco.report/src/org/jacoco/report/DirectorySourceFileLocator.java
+11670-maven,d639132f0b0cb91da8cceb4f60d3f7a1c2d95f83,maven-project/src/main/java/org/apache/maven/profiles/DefaultMavenProfilesBuilder.java
+11670-maven,d639132f0b0cb91da8cceb4f60d3f7a1c2d95f83,maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+11670-maven,d639132f0b0cb91da8cceb4f60d3f7a1c2d95f83,maven-project/src/main/java/org/apache/maven/project/builder/impl/DefaultProjectBuilder.java
+11670-maven,d639132f0b0cb91da8cceb4f60d3f7a1c2d95f83,maven-project/src/main/java/org/apache/maven/project/builder/PomClassicDomainModel.java
+19464-gpslogger,d3c429ddb5adf8e063920473bb1d11587040f056,gpslogger/src/main/java/com/mendhak/gpslogger/loggers/gpx/Gpx10FileLogger.java
+19464-gpslogger,f1a49d04058ba3f91491d38f42fdc0b933140896,gpslogger/src/main/java/com/mendhak/gpslogger/loggers/gpx/Gpx10FileLogger.java
+6682-byte-buddy,838148dd9b735651720094e59f7ce10c1fe7880f,byte-buddy-dep/src/main/java/net/bytebuddy/dynamic/DynamicType.java
+6682-byte-buddy,838148dd9b735651720094e59f7ce10c1fe7880f,byte-buddy-dep/src/main/java/net/bytebuddy/dynamic/DynamicType.java

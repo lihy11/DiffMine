@@ -1,0 +1,12 @@
+21551-struts,659a688d25477a9c9a8a8487b1948520e6cec17b,core/src/main/java/org/apache/struts2/dispatcher/mapper/DefaultActionMapper.java
+28966-ringojs,95c8401155a7ebe7e226b2c343f4d516c7bd532a,src/org/ringojs/tools/RingoRunner.java
+10166-Anki-Android,d6ab2c8f09f98d25b21bf7550438cdda0d7be6c1,src/com/ichi2/themes/StyledDialog.java
+13180-assertj-core,6acfc42dd22221130c11ff5a6692ffb542554668,src/main/java/org/assertj/core/api/filter/Filters.java
+13180-assertj-core,6acfc42dd22221130c11ff5a6692ffb542554668,src/main/java/org/assertj/core/groups/Tuple.java
+15151-jabref,55962e1c0b3d361cd427a948f85270adf996384f,src/main/java/net/sf/jabref/openoffice/AutoDetectPaths.java
+5737-junit5,9fb60682e4d42f37cbd3f833d59487ac1c538d24,junit-platform-launcher/src/main/java/org/junit/platform/launcher/core/TestExecutionListenerRegistry.java
+4073-Android-Iconics,23ecbe9377b58dd98584e8b9d8beacbb77bc0377,library/src/main/java/com/mikpenz/iconics/Iconics.java
+16323-WorldEdit,eba1114b39735cd5548d68af1daae51807d78d81,src/main/java/com/sk89q/worldedit/expression/runtime/Switch.java
+967-mybatis-3,e0ae4ad0e89dd1a004cd29f409da575c95962a14,src/main/java/org/apache/ibatis/jdbc/AbstractSQL.java
+967-mybatis-3,2be51e1ea7052fad361b4493d01f1f3014bd05ed,src/main/java/org/apache/ibatis/jdbc/AbstractSQL.java
+967-mybatis-3,bebe29f7ef551f1b4576240f11cbfa47f2e8779f,src/main/java/org/apache/ibatis/jdbc/AbstractSQL.java

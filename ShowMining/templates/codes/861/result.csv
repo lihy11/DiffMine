@@ -1,0 +1,17 @@
+32449-habitica-android,010541af5364d04ba043c13ab4cda4b61f794230,Habitica/src/main/java/com/habitrpg/android/habitica/models/Tag.java
+32104-spring-data-rest,0b5726ac414976112469c82bdd60b481419203ff,spring-data-rest-core/src/main/java/org/springframework/data/rest/core/config/ProjectionDefinitionConfiguration.java
+32104-spring-data-rest,0b5726ac414976112469c82bdd60b481419203ff,spring-data-rest-core/src/main/java/org/springframework/data/rest/core/config/ProjectionDefinitionConfiguration.java
+34894-elide,0a6f02513672e2b39e96cb699476b9064b63a0d3,elide-core/src/main/java/com/yahoo/elide/core/PersistentResource.java
+34894-elide,0a6f02513672e2b39e96cb699476b9064b63a0d3,elide-core/src/main/java/com/yahoo/elide/core/PersistentResource.java
+12801-pac4j,8ec7dacfd82a298ff7c349ce88a1ee1282fd4f16,pac4j-core/src/main/java/org/pac4j/core/client/Clients.java
+12801-pac4j,66b4777dc6f3e9e3973b158e55ee8be0e06a0df7,pac4j-core/src/main/java/org/pac4j/core/client/Clients.java
+13026-spring-data-jpa,0d6376d6d87603ce6584da8b8b6cc671693bc5d1,src/main/java/org/springframework/data/jpa/util/BeanDefinitionUtils.java
+7409-powermock,a13f445c686476b26550c634a5cf13d9ada58386,core/src/main/java/org/powermock/Whitebox.java
+4607-hibernate-orm,c9d4305bf191bcc95ceb7c5a4d6db740c71629c0,hibernate-envers/src/main/java/org/hibernate/envers/internal/entities/mapper/ComponentPropertyMapper.java
+2454-cas,1abfeac96460e0f5905f97a896c64b9002db5f00,cas-server-core/src/main/java/org/jasig/cas/services/web/support/RegisteredServiceValidator.java
+2454-cas,55360b39100f9bd740f4f7b793af52366018f744,cas-server-core/src/main/java/org/jasig/cas/services/web/support/RegisteredServiceValidator.java
+7427-hive,bff8d95e91f94770fb0ae4a96009e22d16d7ddfa,ql/src/java/org/apache/hadoop/hive/ql/exec/spark/SparkUtilities.java
+7427-hive,f1aae85f197de09d4b86143f7f13d5aa21d2eb85,ql/src/java/org/apache/hadoop/hive/ql/parse/spark/SparkProcessAnalyzeTable.java
+7427-hive,f1aae85f197de09d4b86143f7f13d5aa21d2eb85,ql/src/java/org/apache/hadoop/hive/ql/parse/ProcessAnalyzeTable.java
+7427-hive,54ff3f56d495e24352624de2655be69d433bd179,ql/src/java/org/apache/hadoop/hive/ql/optimizer/GenMRTableScan1.java
+35532-cxf,e43079ffba8263b4f4726d06a0371d5a630da68d,rt/databinding/jaxb/src/main/java/org/apache/cxf/jaxb/JAXBSchemaInitializer.java

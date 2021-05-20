@@ -1,0 +1,14 @@
+23730-i2p.i2p,e243e0ddbabe3eaa1a864c3137855fd441794de5,apps/streaming/java/src/net/i2p/client/streaming/impl/ConnectionHandler.java
+23730-i2p.i2p,abcdcf2e8c60752e0ca03816ee337d197f2f147d,router/java/src/net/i2p/router/transport/udp/OutboundEstablishState.java
+23730-i2p.i2p,1bbb79f5b16fa1fada4a49302597300ed9f09e2f,router/java/src/net/i2p/router/networkdb/kademlia/StoreJob.java
+23730-i2p.i2p,890f40b2ac99ebf2e59c677a6f90dea4248837c9,apps/i2psnark/java/src/org/klomp/snark/PeerCoordinator.java
+23730-i2p.i2p,890f40b2ac99ebf2e59c677a6f90dea4248837c9,apps/i2psnark/java/src/org/klomp/snark/PeerCoordinator.java
+23730-i2p.i2p,3ac8083faf142a8d90869954c2b92c1168c4ebb5,apps/i2psnark/java/src/org/klomp/snark/PeerCoordinator.java
+23730-i2p.i2p,3ac8083faf142a8d90869954c2b92c1168c4ebb5,apps/i2psnark/java/src/org/klomp/snark/dht/KRPC.java
+23730-i2p.i2p,7d902cca1e38268382e174b1f81d117a1fb16c1a,router/java/src/net/i2p/router/transport/UPnP.java
+23730-i2p.i2p,4346c90aa2a24cfc089cc7083e3d76c587e329b6,router/java/src/net/i2p/router/JobQueue.java
+23730-i2p.i2p,b47deadc97bb47ce50f0db4d318cd5a91c151aee,router/java/src/net/i2p/router/networkdb/kademlia/PersistentDataStore.java
+23730-i2p.i2p,b39ba06d92c876806cabb38dce1764bf5c59da21,router/java/src/net/i2p/router/tunnel/TunnelDispatcher.java
+23730-i2p.i2p,d4bf3403e1a07de62c78980289ce84922f67bf3d,apps/i2ptunnel/java/src/net/i2p/i2ptunnel/HTTPResponseOutputStream.java
+23730-i2p.i2p,4fd1800944a93be96a675a77dd6065be6c64fb08,router/java/src/net/i2p/router/transport/udp/PacketHandler.java
+23730-i2p.i2p,4fd1800944a93be96a675a77dd6065be6c64fb08,router/java/src/net/i2p/router/transport/TransportImpl.java

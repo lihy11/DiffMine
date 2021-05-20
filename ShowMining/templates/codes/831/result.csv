@@ -1,0 +1,17 @@
+23730-i2p.i2p,489f43529c222fa56213c321a0b0854ce74043be,core/java/src/net/i2p/I2PAppContext.java
+23730-i2p.i2p,489f43529c222fa56213c321a0b0854ce74043be,core/java/src/net/i2p/I2PAppContext.java
+14287-Saturn,f73996faab9f28ffbd898b095dc97b05f52f8c37,saturn-job-sharding/src/main/java/com/vip/saturn/job/sharding/task/AbstractAsyncShardingTask.java
+4948-spring-security,91c846756e5a0cc9e591c27fc6d5dbd7c1451a71,config/src/main/java/org/springframework/security/config/authentication/PasswordEncoderParser.java
+3296-ansj_seg,12772cd7b47da40643354d4be8ad2ee89fd9ec7c,plugin/ansj_lucene7_plugin/src/main/java/org/ansj/lucene7/AnsjAnalyzer.java
+3296-ansj_seg,12772cd7b47da40643354d4be8ad2ee89fd9ec7c,plugin/ansj_lucene5_plugin/src/main/java/org/ansj/lucene5/AnsjAnalyzer.java
+3296-ansj_seg,12772cd7b47da40643354d4be8ad2ee89fd9ec7c,plugin/ansj_lucene6_plugin/src/main/java/org/ansj/lucene6/AnsjAnalyzer.java
+7606-opengrok,7bba4db4d753dfb9f7385c22d04350469988dc54,src/org/opensolaris/opengrok/management/OGAgent.java
+3760-robolectric,46bc16c33e09f031bdedad17da1e2d6723b9952f,robolectric/src/main/java/org/robolectric/plugins/LegacyDependencyResolver.java
+5818-jmeter,d63557edb5f1621e63bc4042c30fc30d570e228e,src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java
+5818-jmeter,9f8f8c098e4c86e5c52f1150117e13d4a424b456,src/functions/org/apache/jmeter/functions/IterationCounter.java
+5818-jmeter,28d7ecf32e0a21f624ba0610a0511bbb93a6684e,src/jorphan/org/apache/jorphan/util/Converter.java
+5818-jmeter,f8b02f617a6d8425575933ce23dd138bf3470c0b,src/components/org/apache/jmeter/assertions/BeanShellAssertion.java
+5818-jmeter,b2f156420785fafba9529fed75827e663507f9be,src/components/org/apache/jmeter/config/KeystoreConfig.java
+8346-pmd,332773291e3b88860471f3cb6690f62edda31910,pmd/src/net/sourceforge/pmd/cpd/JavaTokenizer.java
+8346-pmd,332773291e3b88860471f3cb6690f62edda31910,pmd/src/net/sourceforge/pmd/jsp/rules/AbstractJspRule.java
+38627-presto,75ffecaf12078ef3e1a64eff4bad3d76447eceb2,presto-main/src/main/java/com/facebook/presto/type/TypeJsonUtils.java

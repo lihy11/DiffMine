@@ -1,0 +1,15 @@
+25999-geotools,b846c87cf53b9c61bd4fe6fd23999071c5750089,modules/library/metadata/src/main/java/org/geotools/util/PartiallyOrderedSet.java
+6355-jodd,54b19c656d5dde1df4d4034c8026839ee9909d3e,jodd-http/src/main/java/jodd/http/Buffer.java
+6355-jodd,bbd5c04921579fccbdeed06775cdda088c35abfb,jodd-http/src/main/java/jodd/http/Buffer.java
+5607-atmosphere,9b29a2dcd4bff276f3408d29989cef5efd9e954d,modules/jersey/src/main/java/org/atmosphere/jersey/AtmosphereFilter.java
+5607-atmosphere,9b29a2dcd4bff276f3408d29989cef5efd9e954d,modules/cpr/src/main/java/org/atmosphere/inject/InjectableObjectFactory.java
+5607-atmosphere,9b29a2dcd4bff276f3408d29989cef5efd9e954d,modules/cpr/src/main/java/org/atmosphere/inject/InjectableObjectFactory.java
+7518-libstreaming,3a7a52fbd54a3f81b1f62a580c7a66e93c0e79e3,src/net/majorkernelpanic/streaming/rtsp/RtspServer.java
+7518-libstreaming,3a7a52fbd54a3f81b1f62a580c7a66e93c0e79e3,src/net/majorkernelpanic/streaming/rtsp/RtspServer.java
+7518-libstreaming,3a7a52fbd54a3f81b1f62a580c7a66e93c0e79e3,src/net/majorkernelpanic/streaming/rtsp/RtspServer.java
+7518-libstreaming,fefcf29fb175d24cb36e76c1bad995c870aa3d78,src/net/majorkernelpanic/streaming/rtsp/RtspServer.java
+7518-libstreaming,fefcf29fb175d24cb36e76c1bad995c870aa3d78,src/net/majorkernelpanic/streaming/rtsp/RtspServer.java
+7518-libstreaming,fefcf29fb175d24cb36e76c1bad995c870aa3d78,src/net/majorkernelpanic/streaming/rtsp/RtspServer.java
+7606-opengrok,c9ce9a97fff03e6bacd29569108fd45c9765dd57,src/org/opensolaris/opengrok/web/Util.java
+5818-jmeter,b1eb4ccd61411c445c6bf341717f2a56b40f42f6,src/core/org/apache/jmeter/threads/TestCompiler.java
+5818-jmeter,27c8d7f901576d17f835a26be0c572d95383c390,src/core/org/apache/jmeter/report/processor/ExternalSampleSorter.java

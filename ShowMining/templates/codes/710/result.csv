@@ -1,0 +1,14 @@
+20057-AnySoftKeyboard,c88d60917960b0ac6685dfcc5ea22533234dd06a,app/src/main/java/com/anysoftkeyboard/keyboards/KeyboardSwitcher.java
+22766-bugsnag-android,9718c8a70e854fe790c0bcccf3d4f4cfe948ac38,sdk/src/main/java/com/bugsnag/android/DeviceData.java
+14745-android,9021848af693faf27466f97f39d7f8ffe46c3134,src/main/java/com/owncloud/android/authentication/AccountUtils.java
+14745-android,9021848af693faf27466f97f39d7f8ffe46c3134,src/main/java/com/owncloud/android/db/PreferenceManager.java
+14745-android,9021848af693faf27466f97f39d7f8ffe46c3134,src/main/java/com/owncloud/android/authentication/AuthenticatorActivity.java
+14745-android,086e18d377a86a1c46274a5e0ac117005662d2ca,src/main/java/com/owncloud/android/ui/activity/Preferences.java
+14745-android,086e18d377a86a1c46274a5e0ac117005662d2ca,src/main/java/com/owncloud/android/ui/activity/Preferences.java
+14745-android,086e18d377a86a1c46274a5e0ac117005662d2ca,src/main/java/com/owncloud/android/ui/activity/Preferences.java
+18141-syncthing-android,6ead7744b064ec254199dc96b1906bc26457c068,src/main/java/com/nutomic/syncthingandroid/syncthing/SyncthingService.java
+18141-syncthing-android,6ead7744b064ec254199dc96b1906bc26457c068,src/main/java/com/nutomic/syncthingandroid/syncthing/SyncthingService.java
+18141-syncthing-android,6ead7744b064ec254199dc96b1906bc26457c068,src/main/java/com/nutomic/syncthingandroid/activities/MainActivity.java
+5751-Conversations,4e898fa4f29e25cbd2fb7c4e0cdcc6342e88e417,src/main/java/eu/siacs/conversations/ui/ConversationActivity.java
+16202-connectbot,c729539884aa5249389f94c7bce42dd18e667794,app/src/main/java/org/connectbot/SettingsActivity.java
+16202-connectbot,c729539884aa5249389f94c7bce42dd18e667794,app/src/androidTest/java/org/connectbot/StartupTest.java

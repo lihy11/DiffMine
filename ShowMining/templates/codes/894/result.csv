@@ -1,0 +1,15 @@
+20514-apps-android-wikipedia,736541996dc241592506cff821318c93f574f548,wikipedia/src/main/java/org/wikipedia/Site.java
+20514-apps-android-wikipedia,715073e209408caa231df531ba68cc645eb43be6,wikipedia/src/main/java/org/wikipedia/Site.java
+21302-phpinspectionsea,b74ea4b244272f1ca1e7dca531c0e676395af7f0,src/main/java/com/kalessil/phpStorm/phpInspectionsEA/inspectors/apiUsage/fileSystem/RealpathInSteamContextInspector.java
+10166-Anki-Android,eb9fe5159a4d98697e30dc71165b3b1791cdeab1,AnkiDroid/src/main/java/com/ichi2/anki/AbstractFlashcardViewer.java
+10166-Anki-Android,9c3ffa0b80ab4ffa7e19907a4a09128dea669489,src/com/ichi2/libanki/Decks.java
+12637-FolioReader-Android,770ec1a155490e4dd6dcee64a0c9d58d9a86ab09,folioreader/src/main/java/com/folioreader/fragments/FolioPageFragment.java
+17859-docker-maven-plugin,5b49b3c55c7dab5db959c62d8e7b00f6b7225d61,src/main/java/io/fabric8/maven/docker/AbstractBuildSupportMojo.java
+17859-docker-maven-plugin,055fee27bd1832d960ba01aebb06ea77d3bff6c9,src/main/java/org/jolokia/docker/maven/AbstractDockerMojo.java
+11281-liquibase,f74f2d3d09cd9e36db87e8250c49d0f28469b029,src/java/liquibase/migrator/change/CreateTableChange.java
+6217-FEBS-Shiro,76ea8062ff650d1db11831a9f4d1dc83a99eb14a,src/main/java/cc/mrbird/febs/generator/controller/GeneratorController.java
+6217-FEBS-Shiro,fb276ec10f47449cb19b2d02464eeaa8d713af7b,src/main/java/cc/mrbird/febs/generator/controller/GeneratorController.java
+5607-atmosphere,63b098d014eebb98a5e7e985b20c900fd923a9d6,modules/cpr/src/main/java/org/atmosphere/cpr/AtmosphereServlet.java
+13675-framework,3cb61fb9371d81f2d3d7a51fb9f12348ef5c4fd5,src/com/itmill/toolkit/terminal/web/ApplicationServlet.java
+48895-azure-sdk-for-java,ba3e0f3f327700460d2cb5948f82c72081ef7229,microsoft-azure-api/src/main/java/com/microsoft/windowsazure/services/serviceBus/implementation/ServiceBusConnectionSettings.java
+259-zxing,5a077832241eee11c62d9b15e3b7990197e01875,android/src/com/google/zxing/client/android/result/ResultHandler.java

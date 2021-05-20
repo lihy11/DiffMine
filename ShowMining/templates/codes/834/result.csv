@@ -1,0 +1,17 @@
+25999-geotools,fee9d9c006b049118efc8a89d6688bf713a97411,modules/extension/complex/src/main/java/org/geotools/data/complex/filter/XPathUtil.java
+25999-geotools,fee9d9c006b049118efc8a89d6688bf713a97411,modules/extension/complex/src/main/java/org/geotools/data/complex/config/FeatureTypeRegistry.java
+25999-geotools,38c9fb95dab5fbfddedd7098f9861ea65bf45531,modules/extension/xsd/xsd-gml2/src/main/java/org/geotools/gml2/bindings/GML2ParsingUtils.java
+25999-geotools,38c9fb95dab5fbfddedd7098f9861ea65bf45531,modules/extension/xsd/xsd-core/src/main/java/org/geotools/xml/impl/AttributeEncodeExecutor.java
+25999-geotools,38c9fb95dab5fbfddedd7098f9861ea65bf45531,modules/extension/xsd/xsd-core/src/main/java/org/geotools/xml/impl/AttributeEncodeExecutor.java
+25999-geotools,c93c9063a01766dd4d202b9201b040b84d9a16d5,modules/library/main/src/main/java/org/geotools/feature/simple/SimpleFeatureTypeBuilder.java
+25999-geotools,2e7db4df7b25290e5e3b72e6a372e43c42acfd09,modules/library/referencing/src/main/java/org/geotools/referencing/factory/PropertyAuthorityFactory.java
+25999-geotools,ae62951cd797af68edf126c346547b849ea9d322,modules/extension/xsd/xsd-gml2/src/main/java/org/geotools/gml2/bindings/GMLEncodingUtils.java
+25999-geotools,da30bb65a50af52c7687f347926eff377fb100c9,modules/extension/xsd/xsd-gml2/src/main/java/org/geotools/gml2/bindings/GMLEncodingUtils.java
+8346-pmd,0b52f6427a4880306ea462dca48877e43d6d45c7,pmd-java/src/main/java/net/sourceforge/pmd/lang/java/rule/bestpractices/MissingOverrideRule.java
+15769-calcite,f1df07f6f132c4dea7177642dd24f6eb71a7ea11,core/src/main/java/net/hydromatic/optiq/rules/java/JavaRules.java
+15769-calcite,f1df07f6f132c4dea7177642dd24f6eb71a7ea11,core/src/main/java/net/hydromatic/optiq/rules/java/JavaRules.java
+15769-calcite,f1df07f6f132c4dea7177642dd24f6eb71a7ea11,core/src/main/java/net/hydromatic/optiq/impl/jdbc/JdbcRules.java
+15769-calcite,f1df07f6f132c4dea7177642dd24f6eb71a7ea11,core/src/main/java/net/hydromatic/optiq/impl/jdbc/JdbcRules.java
+35532-cxf,59a1524546d6c9767b69897f30c119fe81446885,rt/rs/security/oauth-parent/oauth2/src/main/java/org/apache/cxf/rs/security/oauth2/filters/OAuthRequestFilter.java
+35532-cxf,3a89665775890e7482a99d7c29dff448da224167,rt/core/src/main/java/org/apache/cxf/interceptor/security/NamePasswordCallbackHandler.java
+35532-cxf,2543785c4a6906dfb7d38852653ee7fbce5acc91,common/xerces-xsd-validation/src/main/java/org/apache/cxf/xsdvalidation/DOMLSInput.java

@@ -1,0 +1,10 @@
+34894-elide,52d1448b06210d1eeb736927561b8f1027bfad48,elide-annotations/src/main/java/com/yahoo/elide/security/checks/prefab/Common.java
+21089-SpongeAPI,e455e2417f2fd0bd0c5c3dcbb9367f285cea3d61,src/main/java/org/spongepowered/api/util/blockray/BlockRay.java
+21089-SpongeAPI,2312d8bfaa82d5cddd068124234b32a6bd957a7b,src/main/java/org/spongepowered/api/entity/ai/task/AITask.java
+21089-SpongeAPI,d2b9f9d8bd7933007abd8bdcd070f61bffbe3519,src/main/java/org/spongepowered/api/entity/ai/task/AITask.java
+21111-Glowstone,81f06170121ea7f4af1f53d8cf6b4223655906b1,src/main/java/net/glowstone/util/loot/ReflectiveValue.java
+15151-jabref,65cacb15f0a86d7fc7c571d816fd5c5015207733,src/main/java/org/jabref/gui/maintable/MainTable.java
+5737-junit5,4e8d185bd8dafa9f1cb0d0299debb3b194e77635,junit-platform-launcher/src/main/java/org/junit/platform/launcher/TestPlan.java
+2454-cas,8cb4cad2f8f5a9ee313a9d40f2cd207cbda64617,support/cas-server-support-x509-core/src/main/java/org/apereo/cas/adaptors/x509/authentication/principal/AbstractX509PrincipalResolver.java
+38627-presto,b285e7e94bb263d31db07739935a536a2682e317,presto-parser/src/main/java/com/facebook/presto/sql/tree/DefaultTraversalVisitor.java
+46-java-design-patterns,8c865e6b4dace244042c8b3c4399d81adcffdf90,abstract-document/src/main/java/com/iluwatar/abstractdocument/AbstractDocument.java

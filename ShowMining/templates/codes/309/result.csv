@@ -1,0 +1,12 @@
+21291-bc-java,079961e4b90a0eb84dc236d4c868ccb1282eba4a,pkix/src/main/java/org/bouncycastle/cert/ocsp/BasicOCSPResp.java
+21291-bc-java,079961e4b90a0eb84dc236d4c868ccb1282eba4a,pkix/src/main/java/org/bouncycastle/cert/ocsp/OCSPReq.java
+21291-bc-java,c1ac66f829ac787cd2f54b593b713448f56b686a,pkix/src/main/java/org/bouncycastle/cert/X509CertificateHolder.java
+21291-bc-java,c1ac66f829ac787cd2f54b593b713448f56b686a,pkix/src/main/java/org/bouncycastle/cert/X509AttributeCertificateHolder.java
+21291-bc-java,c1ac66f829ac787cd2f54b593b713448f56b686a,pkix/src/main/java/org/bouncycastle/cert/crmf/CertificateRequestMessage.java
+21291-bc-java,7e566c0878c5871ea61a88a28987811d729dd4e5,pkix/src/main/java/org/bouncycastle/cert/X509CRLHolder.java
+21291-bc-java,7e566c0878c5871ea61a88a28987811d729dd4e5,prov/src/main/java/org/bouncycastle/jcajce/provider/asymmetric/x509/X509CRLObject.java
+21291-bc-java,7e566c0878c5871ea61a88a28987811d729dd4e5,prov/src/main/java/org/bouncycastle/jce/provider/X509CRLObject.java
+21291-bc-java,107c0439128da7a84a6abac66f32702914ac7eff,pkix/src/main/java/org/bouncycastle/cert/X509AttributeCertificateHolder.java
+21291-bc-java,107c0439128da7a84a6abac66f32702914ac7eff,pkix/src/main/java/org/bouncycastle/cert/X509CertificateHolder.java
+21291-bc-java,855a62a7ab6e8f03eb691f7cfc2a1dd9487e9e75,prov/src/main/java/org/bouncycastle/jcajce/provider/asymmetric/x509/X509CertificateObject.java
+21291-bc-java,855a62a7ab6e8f03eb691f7cfc2a1dd9487e9e75,prov/src/main/java/org/bouncycastle/jce/provider/X509CertificateObject.java

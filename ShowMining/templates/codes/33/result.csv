@@ -1,0 +1,10 @@
+60116-Nukkit,80dad5e9b0f93581f5d7f0c4a7d61156fb6db043,src/main/java/cn/nukkit/plugin/PluginBase.java
+23730-i2p.i2p,a337185820b0c70f97ed4d4e0ac129836bb9d879,core/java/src/net/i2p/I2PAppContext.java
+29579-Payara,8fa77170c4b25e8aac8183ec389e6179b2d72c5b,appserver/transaction/jts/src/main/java/com/sun/jts/CosTransactions/LogControl.java
+1649-webmagic,8774cce7dabd5fb906ff77956aea6fa9443c603b,webmagic-plugin/src/main/java/us/codecraft/webmagic/pipeline/FreemarkerPipeline.java
+1649-webmagic,8774cce7dabd5fb906ff77956aea6fa9443c603b,webmagic-core/src/main/java/us/codecraft/webmagic/pipeline/FilePipeline.java
+5590-bitcoinj,bc97cf977f5d9795f1b5bf43e7005fc631133ea0,core/src/main/java/com/google/bitcoin/kits/WalletAppKit.java
+1272-flink,721640778aa88b6491baf837278a873493f283f0,flink-runtime-web/src/main/java/org/apache/flink/runtime/webmonitor/WebRuntimeMonitor.java
+3760-robolectric,15c1a6e605dce93123442f71e8f543d321592556,robolectric-shadows/shadows-core/src/main/java/org/robolectric/shadows/ShadowContext.java
+7427-hive,b674192b090f68c612a7a6e605218a566ea41f00,ql/src/java/org/apache/hadoop/hive/ql/history/HiveHistory.java
+13675-framework,ff9c8684698a7c57ea5b040be23c7a883713125a,client-compiler/src/com/vaadin/sass/linker/SassLinker.java

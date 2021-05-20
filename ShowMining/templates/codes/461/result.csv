@@ -1,0 +1,10 @@
+37503-sonar-java,ba1bca8124e040afe07fc6c8f2feed4d059deb9a,java-frontend/src/main/java/org/sonar/java/se/Flow.java
+37503-sonar-java,ba1bca8124e040afe07fc6c8f2feed4d059deb9a,java-frontend/src/main/java/org/sonar/java/model/SyntacticEquivalence.java
+15151-jabref,7bd97ef778bec92d222ffc06bb5ceea843d3a778,src/main/java/net/sf/jabref/logic/journals/Abbreviation.java
+15151-jabref,b5f518583f3315abc1ac02dd10fe2612715af10c,src/main/java/net/sf/jabref/logic/journals/Abbreviation.java
+2016-dropwizard,e441709c26800c3aaa41e0e5af308924ede2c1d5,dropwizard-servlets/src/main/java/io/dropwizard/servlets/assets/ByteRange.java
+3683-checkstyle,02ae6023b5b6f66e495393a6f87e4beb4b4ab3d0,src/main/java/com/puppycrawl/tools/checkstyle/checks/coding/HiddenFieldCheck.java
+8346-pmd,2f4d852017ae70af327b520f04bfae218ddfd12f,pmd-core/src/main/java/net/sourceforge/pmd/benchmark/TimeTracker.java
+38627-presto,588613a0e7065732b9496c42ff6f69db49ea7594,presto-main/src/main/java/com/facebook/presto/memory/MemoryPoolId.java
+38627-presto,588613a0e7065732b9496c42ff6f69db49ea7594,presto-main/src/main/java/com/facebook/presto/memory/ClusterMemoryPool.java
+38627-presto,588613a0e7065732b9496c42ff6f69db49ea7594,presto-example-http/src/main/java/com/facebook/presto/example/ExampleTableLayoutHandle.java

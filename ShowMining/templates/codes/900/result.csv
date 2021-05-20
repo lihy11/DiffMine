@@ -1,0 +1,15 @@
+53780-alf.io,90138b20fbf7d5e8239cbdfb18d2188300e40496,src/main/java/alfio/manager/payment/BankTransferManager.java
+40244-copycat,4fd6ca324c4afd4f42567e534a8b1023bd125619,server/src/main/java/io/atomix/copycat/server/state/LeaderState.java
+42522-elki,139ceac384ba819fa6d10f1c8fc8067548f56749,src/experimentalcode/shared/outlier/ensemble/OutlierExperimentEnsembleMatrix.java
+40863-isis,408d6647b8d425bd3692e12813f31a3b9913d870,core/metamodel/src/main/java/org/apache/isis/core/runtime/threadpool/ThreadPoolSupport.java
+1090-HikariCP,48e0acb98213234b32dd4c21eb5a7d4d94e25ca2,hikaricp-java6/src/main/java/com/zaxxer/hikari/util/PoolUtilities.java
+1090-HikariCP,48e0acb98213234b32dd4c21eb5a7d4d94e25ca2,hikaricp/src/main/java/com/zaxxer/hikari/util/PoolUtilities.java
+5827-MinecraftForge,be415091cdafd72acb179988970960e5007e8529,src/main/java/net/minecraftforge/fml/client/gui/GuiModList.java
+7611-Terasology,bf146683141551ca46a1a7a8f0b669e2e14dae5f,engine/src/main/java/org/terasology/engine/modes/loadProcesses/StepBasedLoadProcess.java
+7611-Terasology,c53c205849d57af2e98da4da1bee9ec41addc949,src/main/java/org/terasology/rendering/shader/ShaderParametersPrePost.java
+7427-hive,32b8994480ec94cb1f28ba9cd295cd85cc7fe064,standalone-metastore/src/main/java/org/apache/hadoop/hive/metastore/columnstats/aggr/StringColumnStatsAggregator.java
+7427-hive,5e9f74ca377b576d8f08912073577f6ae6569eb9,ql/src/java/org/apache/hadoop/hive/ql/exec/SparkHashTableSinkOperator.java
+38627-presto,15ca69b22b2bcdde426fa8e806c7748f2dfe22fe,presto-main/src/main/java/com/facebook/presto/operator/ExchangeOperator.java
+185-MPAndroidChart,90dc54a6853e7e82262c6ffeda006994bbc23b46,MPChartLib/src/main/java/com/github/mikephil/charting/charts/BarLineChartBase.java
+185-MPAndroidChart,90dc54a6853e7e82262c6ffeda006994bbc23b46,MPChartLib/src/main/java/com/github/mikephil/charting/charts/HorizontalBarChart.java
+199-glide,0d8a954b91ef8a37c944c2fdee75966c6f94d7bb,library/src/main/java/com/bumptech/glide/load/resource/gif/GifFrameManager.java

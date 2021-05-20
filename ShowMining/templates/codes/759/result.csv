@@ -1,0 +1,14 @@
+32143-checkstyle-idea,7d0b6ed67682cf1251afff53df6c433d23d9995e,src/main/java/org/infernus/idea/checkstyle/model/ConfigurationLocation.java
+30753-phoenix,f1c7fc879958be9a54b889d4e3fa3e6c9a10fc74,phoenix-core/src/main/java/org/apache/phoenix/jdbc/PhoenixConnection.java
+33465-sqoop,5ab5190304d0e13d1c5eaa56d1f486f3106529d3,src/java/org/apache/sqoop/orm/CompilationManager.java
+22223-pdfbox,fc1364c462710ab7e87f845a6aafee70274a10f5,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/graphics/color/PDICCBased.java
+22223-pdfbox,0efbd4ad92be20e375483567b9ba53710c779188,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/font/FileSystemFontProvider.java
+22223-pdfbox,616b403ab2b95355d02430d8aa7ee54399a9de37,pdfbox/src/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineDashPattern.java
+22223-pdfbox,616b403ab2b95355d02430d8aa7ee54399a9de37,pdfbox/src/main/java/org/apache/pdfbox/contentstream/operator/state/SetLineDashPattern.java
+23659-Kundera,a281bcd93109bee3c4d88d83d48afd6fb7d7678f,kundera-cassandra/src/main/java/com/impetus/client/cassandra/pelops/PelopsClient.java
+23659-Kundera,a281bcd93109bee3c4d88d83d48afd6fb7d7678f,kundera-cassandra/src/main/java/com/impetus/client/cassandra/thrift/ThriftInvertedIndexHandler.java
+15118-spring-cloud-config,54f76bc2fd26732d09a51b16cbf7e3a57bb21d7f,spring-cloud-config-client/src/main/java/org/springframework/cloud/config/client/ConfigServicePropertySourceLocator.java
+1272-flink,bdcbb5e5a8db3615cad224e19f783615313fb140,nephele/nephele-server/src/main/java/eu/stratosphere/nephele/taskmanager/runtime/RuntimeInputChannelContext.java
+6424-hbase,25c95d8dd9ec2d4e712aaeccedec306be41a3c8a,hbase-server/src/main/java/org/apache/hadoop/hbase/mapreduce/TableInputFormatBase.java
+13536-activemq,b18255665f6b7b0e241d6f01019edcf5e1161c5c,activemq-core/src/main/java/org/apache/activemq/broker/region/PrefetchSubscription.java
+13536-activemq,504bcf0596693070d9c1deb00a6ef2c6455ecf3d,activemq-core/src/main/java/org/apache/activemq/broker/TransportConnection.java

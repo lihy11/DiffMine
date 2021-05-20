@@ -1,0 +1,12 @@
+53780-alf.io,80bd1394d94f7a62f8d62db3f9191dd19da62b9e,src/main/java/alfio/util/PasswordGenerator.java
+46970-xJavaFxTool,ae72569cddef53b417f7e2fe8f0d6da11dc12539,src/main/java/com/xwintop/xJavaFxTool/utils/XJavaFxSystemUtil.java
+33064-xodus,277d18e395f373fabea4e16865226522fbd7845e,entity-store/src/main/java/jetbrains/exodus/entitystore/iterate/EntityIterableBase.java
+36169-takes,33631a86f7fe646b0e326b2b233b45efb7ac376b,src/main/java/org/takes/facets/hamcrest/RsMatchStatus.java
+24467-lenskit,760fb1d8a387a64ee2eef64ceea1f44c40436d6e,lenskit-core/src/main/java/org/grouplens/lenskit/util/spi/ServiceFinder.java
+29579-Payara,80a9541aa1b6b1ff4a8acf06ae8d501de3813d39,nucleus/cluster/cli/src/main/java/com/sun/enterprise/admin/cli/cluster/CreateLocalInstanceCommand.java
+10256-traccar,849878cf105baed2348c605f7232012efb294480,src/org/traccar/protocol/GenxProtocolDecoder.java
+10572-Openfire,496dfb3f42baf7a21f98b81feea33a29b321b810,src/java/org/jivesoftware/messenger/muc/spi/MultiUserChatServerImpl.java
+10572-Openfire,496dfb3f42baf7a21f98b81feea33a29b321b810,src/java/org/jivesoftware/messenger/muc/spi/MultiUserChatServerImpl.java
+2688-swagger-core,ae0c22904fbe25d14255f3c330c71a95567c2cc0,modules/swagger-jaxrs2/src/main/java/io/swagger/v3/jaxrs2/util/ReaderUtils.java
+5607-atmosphere,452c679ac10979a4c362123c07a3eabba601635a,modules/cpr/src/main/java/org/atmosphere/interceptor/JavaScriptProtocol.java
+8048-ForkHub,f12fe8e03c5a95c4c6f20e3ebb43399bf3aefa11,app/src/main/java/com/github/mobile/ui/code/RepositoryCodeFragment.java

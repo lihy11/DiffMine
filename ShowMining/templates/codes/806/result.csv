@@ -1,0 +1,11 @@
+31172-qbit,f22a363e9cd4012a4d3c0ca103978bb317c0fa71,qbit/boon/src/main/java/io/advantageous/qbit/events/impl/BoonEventBusProxyCreator.java
+36830-java-sdk,682c0ecc8cf17832ab9127fc7b9ed056866c7377,core/src/main/java/com/ibm/watson/developer_cloud/util/RequestUtils.java
+10572-Openfire,866d8c5824967bde4579a66434565bc57c4e9f3e,src/java/org/jivesoftware/wildfire/container/PluginClassLoader.java
+14046-sshj,9e3b9f7c248d00a1e6261e09d38981c20ab2ad3e,src/main/java/net/schmizz/sshj/DefaultConfig.java
+11281-liquibase,7c8c7f259ccd72d51cb59d8aa69138e47435ad53,core/src/java/liquibase/util/LiquibaseUtil.java
+4142-flyway,340dc666d611f4588b582f4157602db83c2ba51b,flyway-core/src/main/java/org/flywaydb/core/api/logging/LogFactory.java
+9531-nutz,e8282e84d419354b70d917c0d3359d4ea250410c,src/org/nutz/log/impl/Log4jLogAdapter.java
+9531-nutz,c79d2e0dd470ed7484fff372167415d2079286c2,src/org/nutz/log/impl/Log4jLogAdapter.java
+8848-lwjgl3,08f047ba0eda41c34d402f6be5a7a1b0915bbe5c,modules/core/src/main/java/org/lwjgl/system/APIUtil.java
+8848-lwjgl3,08f047ba0eda41c34d402f6be5a7a1b0915bbe5c,modules/generator/src/main/java/org/lwjgl/generator/util/vulkan/VulkanFormatter.java
+8848-lwjgl3,08f047ba0eda41c34d402f6be5a7a1b0915bbe5c,modules/generator/src/main/java/org/lwjgl/generator/util/TemplateFormatter.java

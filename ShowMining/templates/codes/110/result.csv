@@ -1,0 +1,10 @@
+41143-sitewhere,f828a6ce01a309bd8a28d97b321b26e357321085,sitewhere-core/src/main/java/com/sitewhere/Tracer.java
+21551-struts,20c54df03a4e2f7be53a4f08061b658ae76fc847,core/src/main/java/com/opensymphony/xwork2/config/providers/XmlConfigurationProvider.java
+13882-blynk-server,0088e8929d05509b10f66347f252dffc3962a856,server/core/src/main/java/cc/blynk/server/handlers/common/UserNotLoggedHandler.java
+13882-blynk-server,406b60ad187df3d08c9fb9fa7979e2ebd5f9c3d0,server/core/src/main/java/cc/blynk/server/handlers/common/HardwareNotLoggedHandler.java
+13882-blynk-server,5c6e2405f3ce980353993b730fc6aae0a837d573,server/http-core/src/main/java/cc/blynk/core/http/rest/params/BodyParam.java
+13882-blynk-server,b2dfe2ff79e64b1d47ac86201ac546e8e23022bc,server/tcp-app-server/src/main/java/cc/blynk/server/application/handlers/main/auth/GetServerHandler.java
+13882-blynk-server,ccce3ed7065054bb4941fcd6569405507645cb30,server/core/src/main/java/cc/blynk/server/core/protocol/handlers/DefaultExceptionHandler.java
+13882-blynk-server,ccce3ed7065054bb4941fcd6569405507645cb30,server/core/src/main/java/cc/blynk/server/core/protocol/handlers/DefaultExceptionHandler.java
+13882-blynk-server,3f19ec905dcf3598da88d517010f63c9409fdc59,server/http-api/src/main/java/cc/blynk/server/api/http/logic/HttpAPILogic.java
+13882-blynk-server,3f19ec905dcf3598da88d517010f63c9409fdc59,server/http-api/src/main/java/cc/blynk/server/api/http/logic/HttpAPILogic.java

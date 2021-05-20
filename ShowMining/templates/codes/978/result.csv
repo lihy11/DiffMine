@@ -1,0 +1,15 @@
+40863-isis,820bc8095ef9f488c7abd6e846a0649a4ae14327,core/runtime/src/main/java/org/apache/isis/core/runtime/persistence/adaptermanager/PojoAdapterHashMap.java
+32143-checkstyle-idea,b6fe1dd39036ff05aa22c5d578098ead88c18ae6,src/main/java/org/infernus/idea/checkstyle/checker/ListPropertyResolver.java
+32143-checkstyle-idea,b6fe1dd39036ff05aa22c5d578098ead88c18ae6,src/main/java/org/infernus/idea/checkstyle/checker/CheckerFactory.java
+38660-guacamole-client,8e3a73a9a2ac0070471edd98f5480b717fc7c2c5,guacamole/src/main/java/org/glyptodon/guacamole/net/basic/rest/connection/APIConnectionWrapper.java
+20458-Jupiter,5efad6220a4728a4a812fcae0cee646e588f64d5,jupiter-common/src/main/java/org/jupiter/common/util/Reflects.java
+24493-smarthome,43c921c49d8ad2ae991537cce6aa7ac7a539a8c2,bundles/automation/org.eclipse.smarthome.automation.commands/src/main/java/org/eclipse/smarthome/automation/internal/commands/Utils.java
+12435-commafeed,caff34cc3b6eb89e78071f9133a00fc9914a8b0a,src/main/java/com/commafeed/backend/feed/FeedUtils.java
+4155-zeppelin,79a53129e887ac749c5d165b318207c9d8ddbe12,zeppelin-server/src/main/java/org/apache/zeppelin/rest/NotebookRestApi.java
+9531-nutz,9e2bcbf839aa625d6ad51784ac46c7799c363ba9,src/org/nutz/http/Header.java
+1272-flink,8a5271e29f664dac27c95eb8e7df2ae9be76b592,flink-runtime/src/main/java/org/apache/flink/runtime/state/ttl/TtlMapState.java
+6424-hbase,13e9eda3e7290d16b9370a644d7ef4d5c745c50f,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal/WALEditsReplaySink.java
+6424-hbase,8bc2888278b75a525fb6898386b61bef78a114ac,src/java/org/apache/hadoop/hbase/client/Scan.java
+5818-jmeter,8c9328ca6c0ba59a80ba96d96a3d0f50219230b2,src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/gui/SmtpPanel.java
+25739-poi,72834dfffa0c90b9d7866b0dc683aac4673492dd,src/java/org/apache/poi/ss/formula/CollaboratingWorkbooksEnvironment.java
+25739-poi,72834dfffa0c90b9d7866b0dc683aac4673492dd,src/java/org/apache/poi/hpsf/MutableSection.java

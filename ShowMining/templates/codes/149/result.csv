@@ -1,0 +1,11 @@
+39628-Lucee,e89b05b0bb9ac76efbf3c22d5516594ebf118f49,core/src/main/java/lucee/commons/io/SystemUtil.java
+11863-jetcache,f107359fffe14c3b526d0863bd5587982a034db8,jetcache-spring/src/main/java/com/taobao/geek/jetcache/spring/CachePointcut.java
+6355-jodd,9b6cb06a7aaf1d359cad8e7dec5a7c4fce95cd8e,jodd-core/src/main/java/jodd/util/ClassLoaderUtil.java
+6355-jodd,5440b529fee46c1655cd5b6f17e0750ab75150bf,jodd-core/src/main/java/jodd/util/ClassLoaderUtil.java
+6355-jodd,5440b529fee46c1655cd5b6f17e0750ab75150bf,jodd-core/src/main/java/jodd/util/ClassLoaderUtil.java
+6355-jodd,5440b529fee46c1655cd5b6f17e0750ab75150bf,jodd-core/src/main/java/jodd/util/ObjectUtil.java
+6355-jodd,5440b529fee46c1655cd5b6f17e0750ab75150bf,jodd-joy/src/main/java/jodd/joy/WebRunner.java
+5827-MinecraftForge,9304420a2c197c097582c5b5ad1d97a791c805f6,fml/common/cpw/mods/fml/common/ModClassLoader.java
+7427-hive,afb4605abf2cffbb676a666b41676518f54d5d94,shims/0.23/src/main/java/org/apache/hadoop/hive/shims/Hadoop23Shims.java
+35532-cxf,3ea1c784f248e29dcda46b16b82ad0e923c4b6e1,maven-plugins/java2wadl-plugin/src/main/java/org/apache/cxf/maven_plugin/javatowadl/ParseJavaDocMojo.java
+35532-cxf,62477b9f1ce289218a8f39207a76986f3c78d85b,rt/transports/http/src/main/java/org/apache/cxf/transport/http/CXFAuthenticator.java

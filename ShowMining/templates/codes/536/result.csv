@@ -1,0 +1,12 @@
+46767-logbook,5a7d15d107a9db1034bd951f4c52ee892d0ba20f,logbook-spring-boot-starter/src/main/java/org/zalando/logbook/spring/LogbookAutoConfiguration.java
+36035-lambda,d906dbb4e5c343db4dbd40f2a8bdb24b69e9f7a6,src/main/java/com/jnape/palatable/lambda/adt/Either.java
+29210-java-client,a1d8386735fb5c0f34ac1e7184333ece1266a97f,src/main/java/io/appium/java_client/pagefactory/WidgetByBuilder.java
+29210-java-client,a1d8386735fb5c0f34ac1e7184333ece1266a97f,src/main/java/io/appium/java_client/pagefactory/WidgetByBuilder.java
+29210-java-client,b8bc1f09427cff0d8ed38fbcc27038f7b724f2cd,src/main/java/io/appium/java_client/remote/AppiumProtocolHandShake.java
+29210-java-client,b8bc1f09427cff0d8ed38fbcc27038f7b724f2cd,src/main/java/io/appium/java_client/remote/AppiumProtocolHandShake.java
+11873-AxonFramework,4420a3e91ab2c8cc4d6b86328202b6532cd0966e,core/src/main/java/org/axonframework/config/EventHandlingConfiguration.java
+11873-AxonFramework,4420a3e91ab2c8cc4d6b86328202b6532cd0966e,core/src/main/java/org/axonframework/config/EventHandlingConfiguration.java
+11873-AxonFramework,958cb70b47ae35a769cba2a8dfa6e845fc069a29,core/src/main/java/org/axonframework/config/EventHandlingConfiguration.java
+11873-AxonFramework,958cb70b47ae35a769cba2a8dfa6e845fc069a29,core/src/main/java/org/axonframework/config/EventHandlingConfiguration.java
+5737-junit5,3295c15bc76a94fb4863c6e2da1091a837f5aeaf,junit-platform-surefire-provider/src/main/java/org/junit/platform/surefire/provider/RunListenerAdapter.java
+2454-cas,05b68ac43f056e5f19c5055a789cba37c5d8211b,core/cas-server-core-services/src/main/java/org/apereo/cas/config/CasCoreServicesConfiguration.java
