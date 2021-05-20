@@ -28,4 +28,8 @@
 1. `cn.net.cobot.mining.action.RunAnalyze.main()`函数中包含了提取提交部分代码的入口函数
 2. `cn.net.cobot.mining.action.ResultAnalyze.main()`函数中包含了从修改代码中挖掘模式的入口函数
 
-#### 部分模式挖掘结果展示：
+#### 部分模式挖掘结果展示
+使用django运行主目录下的ShowMining内的python脚本即可启动展示网页，其中包含了部分挖掘结果的展示
+
+#### 联系方式
+李海洋  lihaiyang@pku.edu.cn
